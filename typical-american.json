@@ -1,0 +1,116 @@
+[
+    {
+        "content_text":"Early years",
+        "category":"Early years",
+        "start_date":"2000-01-01",
+        "end_date":"2005-06-30"
+    },
+    {
+        "content_text":"Elementary school",
+        "category":"Elementary school",
+        "start_date":"2005-07-01",
+        "end_date":"2011-06-30"
+    },
+    {
+        "content_text":"Middle school",
+        "category":"Middle school",
+        "start_date":"2011-07-01",
+        "end_date":"2014-06-30"
+    },
+    {
+        "content_text":"High school",
+        "category":"High school",
+        "start_date":"2014-07-01",
+        "end_date":"2018-06-30"
+    },
+    {
+        "content_text":"College",
+        "category":"College",
+        "start_date":"2018-07-01",
+        "end_date":"2022-06-30"
+    },
+    {
+        "content_text":"Career",
+        "category":"Career",
+        "start_date":"2022-07-01",
+        "end_date":"2062-12-31"
+    },
+    {
+        "content_text":"Retirement",
+        "category":"Retirement",
+        "start_date":"2063-01-01",
+        "end_date":"2089-12-31"
+    },
+    {
+        "content_text":"When you can drive in most states",
+        "category":"Other",
+        "start_date":"2016-01-01",
+        "end_date":""
+    },
+    {
+        "content_text":"When you can drive in South Dakota",
+        "category":"Other",
+        "start_date":"2014-05-01",
+        "end_date":""
+    },
+    {
+        "content_text":"When you can vote, smoke cigarettes, fight in war, and be tried as an adult",
+        "category":"Other",
+        "start_date":"2018-01-01",
+        "end_date":""
+    },
+    {
+        "content_text":"When you legally drink",
+        "category":"Other",
+        "start_date":"2021-01-01",
+        "end_date":""
+    },
+    {
+        "content_text":"When men first marry, on average, today",
+        "category":"Other",
+        "start_date":"2028-09-01",
+        "end_date":""
+    },
+    {
+        "content_text":"When men first marry, on average, in 1960",
+        "category":"Other",
+        "start_date":"2022-10-01",
+        "end_date":""
+    },
+    {
+        "content_text":"When a woman has her first child, on average",
+        "category":"Other",
+        "start_date":"2025-02-01",
+        "end_date":""
+    },
+    {
+        "content_text":"Average amount of time a couple who divorces will stay together",
+        "category":"Other",
+        "start_date":"2028-09-01",
+        "end_date":"2035-06-01"
+    },
+    {
+        "content_text":"Average length of tiem someone stays in a job",
+        "category":"Other",
+        "start_date":"2042-01-15",
+        "end_date":"2046-06-01"
+    },
+    {
+        "content_text":"Average life expectancy, men",
+        "category":"Other",
+        "start_date":"2076-03-01",
+        "end_date":""
+    },
+    {
+        "content_text":"Average life expectancy, women",
+        "category":"Other",
+        "start_date":"2081-04-01",
+        "end_date":""
+    },
+    {
+        "content_text":"Average life expectancy of someone in Sierra Leone",
+        "category":"Other",
+        "start_date":"2047-07-01",
+        "end_date":""
+    }
+]

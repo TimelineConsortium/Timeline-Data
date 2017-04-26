@@ -1,0 +1,746 @@
+[  
+  {
+    "content_text":"NA-5",
+    "start_date":"1910-10-16 12:00",
+    "category":"C4",
+    "end_date":"1910-10-17 18:00"
+  },
+  {
+    "content_text":"NA-2",
+    "start_date":"1915-08-14 06:00",
+    "category":"C4",
+    "end_date":"1915-08-17 06:00"
+  },
+  {
+    "content_text":"NA-6",
+    "start_date":"1915-09-25 00:00",
+    "category":"C4",
+    "end_date":"1915-09-29 12:00"
+  },
+  {
+    "content_text":"NA-6",
+    "start_date":"1916-08-18 00:00",
+    "category":"C4",
+    "end_date":"1916-08-18 18:00"
+  },
+  {
+    "content_text":"NA-4",
+    "start_date":"1917-09-25 06:00",
+    "category":"C4",
+    "end_date":"1917-09-27 06:00"
+  },
+  {
+    "content_text":"NA-2",
+    "start_date":"1919-09-09 06:00",
+    "category":"C4",
+    "end_date":"1919-09-14 00:00"
+  },
+  {
+    "content_text":"NA-6",
+    "start_date":"1921-10-23 18:00",
+    "category":"C4",
+    "end_date":"1921-10-25 06:00"
+  },
+  {
+    "content_text":"NA-0",
+    "start_date":"1924-10-19 00:00",
+    "category":"C5",
+    "end_date":"1924-10-20 06:00"
+  },
+  {
+    "content_text":"NA-1",
+    "start_date":"1926-07-25 18:00",
+    "category":"C4",
+    "end_date":"1926-07-26 12:00"
+  },
+  {
+    "content_text":"NA-4",
+    "start_date":"1926-09-12 12:00",
+    "category":"C4",
+    "end_date":"1926-09-12 18:00"
+  },
+  {
+    "content_text":"NA-7",
+    "start_date":"1926-09-16 06:00",
+    "category":"C4",
+    "end_date":"1926-09-18 12:00"
+  },
+  {
+    "content_text":"NA-0",
+    "start_date":"1926-10-19 06:00",
+    "category":"C4",
+    "end_date":"1926-10-20 18:00"
+  },
+  {
+    "content_text":"NA-4",
+    "start_date":"1928-09-12 18:00",
+    "category":"C5",
+    "end_date":"1928-09-17 00:00"
+  },
+  {
+    "content_text":"NA-2",
+    "start_date":"1929-09-25 06:00",
+    "category":"C4",
+    "end_date":"1929-09-27 12:00"
+  },
+  {
+    "content_text":"NA-2",
+    "start_date":"1930-09-03 12:00",
+    "category":"C4",
+    "end_date":"1930-09-03 18:00"
+  },
+  {
+    "content_text":"NA-4",
+    "start_date":"1932-09-04 12:00",
+    "category":"C5",
+    "end_date":"1932-09-08 00:00"
+  },
+  {
+    "content_text":"NA-0",
+    "start_date":"1932-11-08 18:00",
+    "category":"C4",
+    "end_date":"1932-11-09 18:00"
+  },
+  {
+    "content_text":"NA-2",
+    "start_date":"1933-09-02 06:00",
+    "category":"C4",
+    "end_date":"1933-09-04 00:00"
+  },
+  {
+    "content_text":"NA-8",
+    "start_date":"1933-10-05 12:00",
+    "category":"C4",
+    "end_date":"1933-10-07 00:00"
+  },
+  {
+    "content_text":"NA-2",
+    "start_date":"1935-09-02 12:00",
+    "category":"C5",
+    "end_date":"1935-09-03 12:00"
+  },
+  {
+    "content_text":"NA-4",
+    "start_date":"1938-09-17 18:00",
+    "category":"C5",
+    "end_date":"1938-09-21 00:00"
+  },
+  {
+    "content_text":"NA-4",
+    "start_date":"1939-10-16 18:00",
+    "category":"C4",
+    "end_date":"1939-10-17 00:00"
+  },
+  {
+    "content_text":"NA-3",
+    "start_date":"1943-08-23 18:00",
+    "category":"C4",
+    "end_date":"1943-08-25 00:00"
+  },
+  {
+    "content_text":"NA-7",
+    "start_date":"1944-09-12 12:00",
+    "category":"C4",
+    "end_date":"1944-09-13 06:00"
+  },
+  {
+    "content_text":"NA-5",
+    "start_date":"1945-08-27 06:00",
+    "category":"C4",
+    "end_date":"1945-08-28 00:00"
+  },
+  {
+    "content_text":"NA-9",
+    "start_date":"1945-09-15 12:00",
+    "category":"C4",
+    "end_date":"1945-09-16 00:00"
+  },
+  {
+    "content_text":"NA-4",
+    "start_date":"1947-09-13 12:00",
+    "category":"C5",
+    "end_date":"1947-09-18 00:00"
+  },
+  {
+    "content_text":"NA-6",
+    "start_date":"1948-09-13 00:00",
+    "category":"C4",
+    "end_date":"1948-09-13 12:00"
+  },
+  {
+    "content_text":"NA-2",
+    "start_date":"1949-08-26 12:00",
+    "category":"C4",
+    "end_date":"1949-08-27 00:00"
+  },
+  {
+    "content_text":"ABLE-1",
+    "start_date":"1950-08-17 18:00",
+    "category":"C4",
+    "end_date":"1950-08-20 06:00"
+  },
+  {
+    "content_text":"DOG-4",
+    "start_date":"1950-09-02 12:00",
+    "category":"C5",
+    "end_date":"1950-09-08 00:00"
+  },
+  {
+    "content_text":"FOX-6",
+    "start_date":"1950-09-14 12:00",
+    "category":"C4",
+    "end_date":"1950-09-15 18:00"
+  },
+  {
+    "content_text":"CHARLIE-3",
+    "start_date":"1951-08-20 00:00",
+    "category":"C4",
+    "end_date":"1951-08-22 12:00"
+  },
+  {
+    "content_text":"EASY-5",
+    "start_date":"1951-09-06 18:00",
+    "category":"C5",
+    "end_date":"1951-09-09 00:00"
+  },
+  {
+    "content_text":"FOX-7",
+    "start_date":"1952-10-24 06:00",
+    "category":"C4",
+    "end_date":"1952-10-24 18:00"
+  },
+  {
+    "content_text":"CAROL-4",
+    "start_date":"1953-09-03 00:00",
+    "category":"C4",
+    "end_date":"1953-09-05 06:00"
+  },
+  {
+    "content_text":"HAZEL-9",
+    "start_date":"1954-10-09 00:00",
+    "category":"C4",
+    "end_date":"1954-10-15 06:00"
+  },
+  {
+    "content_text":"CONNIE-2",
+    "start_date":"1955-08-05 18:00",
+    "category":"C4",
+    "end_date":"1955-08-11 00:00"
+  },
+  {
+    "content_text":"JANET-0",
+    "start_date":"1955-09-25 00:00",
+    "category":"C5",
+    "end_date":"1955-09-28 06:00"
+  },
+  {
+    "content_text":"GRETA-8",
+    "start_date":"1956-11-05 06:00",
+    "category":"C4",
+    "end_date":"1956-11-05 18:00"
+  },
+  {
+    "content_text":"AUDREY-2",
+    "start_date":"1957-06-27 06:00",
+    "category":"C4",
+    "end_date":"1957-06-27 12:00"
+  },
+  {
+    "content_text":"CARRIE-4",
+    "start_date":"1957-09-07 18:00",
+    "category":"C4",
+    "end_date":"1957-09-15 00:00"
+  },
+  {
+    "content_text":"CLEO-3",
+    "start_date":"1958-08-14 12:00",
+    "category":"C5",
+    "end_date":"1958-08-16 06:00"
+  },
+  {
+    "content_text":"HELENE-8",
+    "start_date":"1958-09-27 12:00",
+    "category":"C4",
+    "end_date":"1958-09-27 18:00"
+  },
+  {
+    "content_text":"GRACIE-8",
+    "start_date":"1959-09-29 06:00",
+    "category":"C4",
+    "end_date":"1959-09-29 12:00"
+  },
+  {
+    "content_text":"ILSA-9",
+    "start_date":"1958-09-27 00:00",
+    "category":"C4",
+    "end_date":""
+  },
+  {
+    "content_text":"NA-0",
+    "start_date":"1949-10-04 06:00",
+    "category":"C4",
+    "end_date":""
+  },
+  {
+    "content_text":"NA-8",
+    "start_date":"1948-10-05 12:00",
+    "category":"C4",
+    "end_date":""
+  },
+  {
+    "content_text":"NA-5",
+    "start_date":"1946-10-07 18:00",
+    "category":"C4",
+    "end_date":""
+  },
+  {
+    "content_text":"NA-2",
+    "start_date":"1932-08-14 00:00",
+    "category":"C4",
+    "end_date":""
+  },
+  {
+    "content_text":"DONNA-5",
+    "start_date":"1960-09-02 12:00",
+    "category":"C5",
+    "end_date":"1960-09-10 18:00"
+  },
+  {
+    "content_text":"BETSY-2",
+    "start_date":"1961-09-05 12:00",
+    "category":"C4",
+    "end_date":"1961-09-06 18:00"
+  },
+  {
+    "content_text":"CARLA-3",
+    "start_date":"1961-09-10 06:00",
+    "category":"C5",
+    "end_date":"1961-09-11 18:00"
+  },
+  {
+    "content_text":"ESTHER-5",
+    "start_date":"1961-09-17 18:00",
+    "category":"C4",
+    "end_date":"1961-09-21 00:00"
+  },
+  {
+    "content_text":"HATTIE-9",
+    "start_date":"1961-10-30 00:00",
+    "category":"C5",
+    "end_date":"1961-10-31 12:00"
+  },
+  {
+    "content_text":"FLORA-7",
+    "start_date":"1963-10-01 12:00",
+    "category":"C4",
+    "end_date":"1963-10-04 00:00"
+  },
+  {
+    "content_text":"CLEO-5",
+    "start_date":"1964-08-22 18:00",
+    "category":"C4",
+    "end_date":"1964-08-25 06:00"
+  },
+  {
+    "content_text":"DORA-6",
+    "start_date":"1964-09-06 06:00",
+    "category":"C4",
+    "end_date":"1964-09-06 12:00"
+  },
+  {
+    "content_text":"GLADYS-9",
+    "start_date":"1964-09-17 12:00",
+    "category":"C4",
+    "end_date":"1964-09-19 00:00"
+  },
+  {
+    "content_text":"HILDA-0",
+    "start_date":"1964-10-01 12:00",
+    "category":"C4",
+    "end_date":"1964-10-02 18:00"
+  },
+  {
+    "content_text":"BETSY-3",
+    "start_date":"1965-09-03 18:00",
+    "category":"C4",
+    "end_date":"1965-09-10 00:00"
+  },
+  {
+    "content_text":"INEZ-9",
+    "start_date":"1966-09-28 06:00",
+    "category":"C4",
+    "end_date":"1966-10-10 00:00"
+  },
+  {
+    "content_text":"BEULAH-2",
+    "start_date":"1967-09-09 18:00",
+    "category":"C5",
+    "end_date":"1967-09-20 12:00"
+  },
+  {
+    "content_text":"CAMILLE-3",
+    "start_date":"1969-08-16 12:00",
+    "category":"C5",
+    "end_date":"1969-08-18 00:00"
+  },
+  {
+    "content_text":"EDITH-6",
+    "start_date":"1971-09-09 12:00",
+    "category":"C5",
+    "end_date":"1971-09-09 18:00"
+  },
+  {
+    "content_text":"CARMEN-6",
+    "start_date":"1974-09-01 18:00",
+    "category":"C4",
+    "end_date":"1974-09-08 00:00"
+  },
+  {
+    "content_text":"GLADYS-7",
+    "start_date":"1975-10-02 12:00",
+    "category":"C4",
+    "end_date":"1975-10-02 18:00"
+  },
+  {
+    "content_text":"ANITA-1",
+    "start_date":"1977-09-02 00:00",
+    "category":"C5",
+    "end_date":"1977-09-02 12:00"
+  },
+  {
+    "content_text":"ELLA-6",
+    "start_date":"1978-09-04 06:00",
+    "category":"C4",
+    "end_date":"1978-09-04 18:00"
+  },
+  {
+    "content_text":"DAVID-4",
+    "start_date":"1979-08-28 00:00",
+    "category":"C5",
+    "end_date":"1979-09-01 00:00"
+  },
+  {
+    "content_text":"FREDERIC-6",
+    "start_date":"1979-09-12 12:00",
+    "category":"C4",
+    "end_date":"1979-09-13 00:00"
+  },
+  {
+    "content_text":"ALLEN-1",
+    "start_date":"1980-08-04 06:00",
+    "category":"C5",
+    "end_date":"1980-08-09 18:00"
+  },
+  {
+    "content_text":"GLORIA-7",
+    "start_date":"1985-09-25 00:00",
+    "category":"C4",
+    "end_date":"1985-09-25 12:00"
+  },
+  {
+    "content_text":"GILBERT-8",
+    "start_date":"1988-09-13 06:00",
+    "category":"C5",
+    "end_date":"1988-09-16 18:00"
+  },
+  {
+    "content_text":"HELENE-9",
+    "start_date":"1988-09-23 06:00",
+    "category":"C4",
+    "end_date":"1988-09-24 12:00"
+  },
+  {
+    "content_text":"JOAN-1",
+    "start_date":"1988-10-22 00:00",
+    "category":"C4",
+    "end_date":"1988-10-22 12:00"
+  },
+  {
+    "content_text":"GABRIELLE-7",
+    "start_date":"1989-09-04 12:00",
+    "category":"C4",
+    "end_date":"1989-09-07 00:00"
+  },
+  {
+    "content_text":"HUGO-8",
+    "start_date":"1989-09-15 12:00",
+    "category":"C5",
+    "end_date":"1989-09-22 00:00"
+  },
+  {
+    "content_text":"ANDREW-2",
+    "start_date":"1992-08-23 06:00",
+    "category":"C5",
+    "end_date":"1992-08-26 06:00"
+  },
+  {
+    "content_text":"FELIX-6",
+    "start_date":"1995-08-12 12:00",
+    "category":"C4",
+    "end_date":"1995-08-13 00:00"
+  },
+  {
+    "content_text":"LUIS-2",
+    "start_date":"1995-09-01 12:00",
+    "category":"C4",
+    "end_date":"1995-09-07 06:00"
+  },
+  {
+    "content_text":"EDOUARD-5",
+    "start_date":"1996-08-25 00:00",
+    "category":"C4",
+    "end_date":"1996-08-30 18:00"
+  },
+  {
+    "content_text":"HORTENSE-8",
+    "start_date":"1996-09-12 12:00",
+    "category":"C4",
+    "end_date":"1996-09-13 06:00"
+  },
+  {
+    "content_text":"GEORGES-7",
+    "start_date":"1998-09-19 18:00",
+    "category":"C4",
+    "end_date":"1998-09-20 18:00"
+  },
+  {
+    "content_text":"MITCH-3",
+    "start_date":"1998-10-25 12:00",
+    "category":"C5",
+    "end_date":"1998-10-28 12:00"
+  },
+  {
+    "content_text":"BRET-2",
+    "start_date":"1999-08-22 00:00",
+    "category":"C4",
+    "end_date":"1999-08-22 18:00"
+  },
+  {
+    "content_text":"CINDY-3",
+    "start_date":"1999-08-28 06:00",
+    "category":"C4",
+    "end_date":"1999-08-29 06:00"
+  },
+  {
+    "content_text":"FLOYD-6",
+    "start_date":"1999-09-12 18:00",
+    "category":"C4",
+    "end_date":"1999-09-15 00:00"
+  },
+  {
+    "content_text":"GERT-7",
+    "start_date":"1999-09-15 12:00",
+    "category":"C4",
+    "end_date":"1999-09-20 00:00"
+  },
+  {
+    "content_text":"LENNY-2",
+    "start_date":"1999-11-17 12:00",
+    "category":"C4",
+    "end_date":"1999-11-18 12:00"
+  },
+  {
+    "content_text":"ISAAC-9",
+    "start_date":"2000-09-28 18:00",
+    "category":"C4",
+    "end_date":"2000-09-29 00:00"
+  },
+  {
+    "content_text":"KEITH-1",
+    "start_date":"2000-10-01 06:00",
+    "category":"C4",
+    "end_date":"2000-10-01 12:00"
+  },
+  {
+    "content_text":"IRIS-9",
+    "start_date":"2001-10-08 12:00",
+    "category":"C4",
+    "end_date":"2001-10-09 00:00"
+  },
+  {
+    "content_text":"MICHELLE-3",
+    "start_date":"2001-11-03 12:00",
+    "category":"C4",
+    "end_date":"2001-11-04 18:00"
+  },
+  {
+    "content_text":"LILI-2",
+    "start_date":"2002-10-02 18:00",
+    "category":"C4",
+    "end_date":"2002-10-03 00:00"
+  },
+  {
+    "content_text":"FRANCES-6",
+    "start_date":"2004-08-28 18:00",
+    "category":"C4",
+    "end_date":"2004-09-02 18:00"
+  },
+  {
+    "content_text":"IVAN-9",
+    "start_date":"2004-09-06 00:00",
+    "category":"C5",
+    "end_date":"2004-09-15 18:00"
+  },
+  {
+    "content_text":"KARL-1",
+    "start_date":"2004-09-20 06:00",
+    "category":"C4",
+    "end_date":"2004-09-21 12:00"
+  },
+  {
+    "content_text":"DENNIS-4",
+    "start_date":"2005-07-08 00:00",
+    "category":"C4",
+    "end_date":"2005-07-10 12:00"
+  },
+  {
+    "content_text":"EMILY-5",
+    "start_date":"2005-07-15 06:00",
+    "category":"C5",
+    "end_date":"2005-07-18 06:00"
+  },
+  {
+    "content_text":"KATRINA-1",
+    "start_date":"2005-08-28 06:00",
+    "category":"C5",
+    "end_date":"2005-08-29 06:00"
+  },
+  {
+    "content_text":"RITA-7",
+    "start_date":"2005-09-21 12:00",
+    "category":"C5",
+    "end_date":"2005-09-23 12:00"
+  },
+  {
+    "content_text":"WILMA-2",
+    "start_date":"2005-10-19 00:00",
+    "category":"C5",
+    "end_date":"2005-10-22 00:00"
+  },
+  {
+    "content_text":"DEAN-4",
+    "start_date":"2007-08-18 00:00",
+    "category":"C5",
+    "end_date":"2007-08-21 06:00"
+  },
+  {
+    "content_text":"FELIX-6",
+    "start_date":"2007-09-02 18:00",
+    "category":"C5",
+    "end_date":"2007-09-04 12:00"
+  },
+  {
+    "content_text":"GUSTAV-7",
+    "start_date":"2008-08-30 18:00",
+    "category":"C4",
+    "end_date":"2008-08-31 00:00"
+  },
+  {
+    "content_text":"IKE-9",
+    "start_date":"2008-09-04 06:00",
+    "category":"C4",
+    "end_date":"2008-09-08 00:00"
+  },
+  {
+    "content_text":"PALOMA-6",
+    "start_date":"2008-11-08 12:00",
+    "category":"C4",
+    "end_date":"2008-11-08 18:00"
+  },
+  {
+    "content_text":"BILL-2",
+    "start_date":"2009-08-19 06:00",
+    "category":"C4",
+    "end_date":"2009-08-20 06:00"
+  },
+  {
+    "content_text":"EARL-5",
+    "start_date":"2010-08-30 18:00",
+    "category":"C4",
+    "end_date":"2010-09-02 12:00"
+  },
+  {
+    "content_text":"IGOR-9",
+    "start_date":"2010-09-12 18:00",
+    "category":"C4",
+    "end_date":"2010-09-17 00:00"
+  },
+  {
+    "content_text":"JULIA-0",
+    "start_date":"2010-09-15 12:00",
+    "category":"C4",
+    "end_date":"2010-09-15 18:00"
+  },
+  {
+    "content_text":"DANIELLE-4",
+    "start_date":"2010-08-27 18:00",
+    "category":"C4",
+    "end_date":""
+  },
+  {
+    "content_text":"OMAR-5",
+    "start_date":"2008-10-16 06:00",
+    "category":"C4",
+    "end_date":""
+  },
+  {
+    "content_text":"FABIAN-6",
+    "start_date":"2003-08-31 18:00",
+    "category":"C5",
+    "end_date":""
+  },
+  {
+    "content_text":"ISABEL-9",
+    "start_date":"2003-09-15 18:00",
+    "category":"C5",
+    "end_date":""
+  },
+  {
+    "content_text":"CHARLEY-3",
+    "start_date":"2004-08-13 18:00",
+    "category":"C4",
+    "end_date":""
+  },
+  {
+    "content_text":"OPAL-5",
+    "start_date":"1995-10-04 12:00",
+    "category":"C4",
+    "end_date":""
+  },
+  {
+    "content_text":"CLAUDETTE-3",
+    "start_date":"1991-09-07 12:00",
+    "category":"C4",
+    "end_date":""
+  },
+  {
+    "content_text":"HARVEY-8",
+    "start_date":"1981-09-15 00:00",
+    "category":"C4",
+    "end_date":""
+  },
+  {
+    "content_text":"DEBBY-5",
+    "start_date":"1982-09-18 00:00",
+    "category":"C4",
+    "end_date":""
+  },
+  {
+    "content_text":"DIANA-5",
+    "start_date":"1984-09-12 00:00",
+    "category":"C4",
+    "end_date":""
+  },
+  {
+    "content_text":"ETHEL-6",
+    "start_date":"1960-09-15 06:00",
+    "category":"C5",
+    "end_date":""
+  },
+  {
+    "content_text":"GRETA-8",
+    "start_date":"1978-09-18 06:00",
+    "category":"C4",
+    "end_date":""
+  }
+]

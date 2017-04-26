@@ -1,0 +1,302 @@
+[
+    {
+        "content_text":"Obama presidency",
+        "start_date":"2009",
+        "end_date":"2017"
+    },
+    {
+        "content_text":"Bush presidency",
+        "start_date":"2000",
+        "end_date":"2008"
+    },
+    {
+        "content_text":"9/11",
+        "start_date":"2001",
+        "end_date":""
+    },
+    {
+        "content_text":"Soviet Union Disbands",
+        "start_date":"1991",
+        "end_date":""
+    },
+    {
+        "content_text":"Watergate",
+        "start_date":"1972",
+        "end_date":""
+    },
+    {
+        "content_text":"First man on the moon",
+        "start_date":"1969",
+        "end_date":""
+    },
+    {
+        "content_text":"JFK Assassination",
+        "start_date":"1963",
+        "end_date":""
+    },
+    {
+        "content_text":"TV Ownership Surpasses 55% of US Households",
+        "start_date":"1954",
+        "end_date":""
+    },
+    {
+        "content_text":"World War II",
+        "start_date":"1939",
+        "end_date":"1945"
+    },
+    {
+        "content_text":"Black Tuesday Sets off the Great Depression",
+        "start_date":"1929",
+        "end_date":""
+    },
+    {
+        "content_text":"First Commercial Passenger Airplane Flight",
+        "start_date":"1914",
+        "end_date":""
+    },
+    {
+        "content_text":"Invention of Basketball",
+        "start_date":"1891",
+        "end_date":""
+    },
+    {
+        "content_text":"First Car",
+        "start_date":"1886",
+        "end_date":""
+    },
+    {
+        "content_text":"Lincoln Shot",
+        "start_date":"1865",
+        "end_date":""
+    },
+    {
+        "content_text":"World War I",
+        "start_date":"1914",
+        "end_date":"1918"
+    },
+    {
+        "content_text":"Birthday of the oldest living person",
+        "start_date":"1898",
+        "end_date":""
+    },
+    {
+        "content_text":"First Telephone Call",
+        "start_date":"1876",
+        "end_date":""
+    },
+    {
+        "content_text":"American Civil War",
+        "start_date":"1861",
+        "end_date":"1865"
+    },
+    {
+        "content_text":"Death of John Adams and Thomas Jefferson",
+        "start_date":"1826",
+        "end_date":""
+    },
+    {
+        "content_text":"George Washington Presidency",
+        "start_date":"1789",
+        "end_date":"1797"
+    },
+    {
+        "content_text":"American Revolution",
+        "start_date":"1775",
+        "end_date":"1783"
+    },
+    {
+        "content_text":"French and Indian War",
+        "start_date":"1754",
+        "end_date":"1763"
+    },
+    {
+        "content_text":"The Mayflower Arrives in Plymouth",
+        "start_date":"1620",
+        "end_date":""
+    },
+    {
+        "content_text":"Jamestown marks the first British Settlement",
+        "start_date":"1620",
+        "end_date":""
+    },
+    {
+        "content_text":"Columbus makes his first contact voyage to the New World",
+        "start_date":"1620",
+        "end_date":""
+    },
+    {
+        "content_text":"Late Middle Ages",
+        "start_date":"1300",
+        "end_date":"1500"
+    },
+    {
+        "content_text":"High Middle Ages",
+        "start_date":"1000",
+        "end_date":"1300"
+    },
+    {
+        "content_text":"Early Middle Ages",
+        "start_date":"476",
+        "end_date":"1000"
+    },
+    {
+        "content_text":"Birth of Christianity",
+        "start_date":"1",
+        "end_date":""
+    },
+    {
+        "content_text":"Roman Empire",
+        "start_date":"-27",
+        "end_date":"470"
+    },
+    {
+        "content_text":"Ancient Egyptian Civilization",
+        "start_date":"-3000",
+        "end_date":"-500"
+    },
+    {
+        "content_text":"First Pyramid",
+        "start_date":"-2360",
+        "end_date":""
+    },
+    {
+        "content_text":"Egyptian Hieroglyphics First Appear",
+        "start_date":"-3400",
+        "end_date":""
+    },
+    {
+        "content_text":"Earliest Evidence of Wheeled Vehicles",
+        "start_date":"-3650",
+        "end_date":""
+    },
+    {
+        "content_text":"Agricultural Revolution Begins",
+        "start_date":"-12000",
+        "end_date":""
+    },
+    {
+        "content_text":"First Humans Migrate Over the Bering Land Bridge into the Americas",
+        "start_date":"-40000",
+        "end_date":"-15000"
+    },
+    {
+        "content_text":"Humans widely considered to have complex language by this point",
+        "start_date":"-50000",
+        "end_date":""
+    },
+    {
+        "content_text":"Humans migrate out of Afirca for the first time",
+        "start_date":"-60000",
+        "end_date":""
+    },
+    {
+        "content_text":"Last Glacial period",
+        "start_date":"-120000",
+        "end_date":"-11500"
+    },
+    {
+        "content_text":"Humans begin to trade",
+        "start_date":"-130000",
+        "end_date":""
+    },
+    {
+        "content_text":"Homo Spiens evolve",
+        "start_date":"-200000",
+        "end_date":""
+    },
+    {
+        "content_text":"Homo Erectus evolve",
+        "start_date":"-1900000",
+        "end_date":""
+    },
+    {
+        "content_text":"First stone tools",
+        "start_date":"-2760000",
+        "end_date":""
+    },
+    {
+        "content_text":"Earliest human ancestor",
+        "start_date":"-7000000",
+        "end_date":""
+    },
+    {
+        "content_text":"Asteroid that caused mass extinction",
+        "start_date":"-65000000",
+        "end_date":""
+    },
+    {
+        "content_text":"First birds evolve",
+        "start_date":"-200000000",
+        "end_date":""
+    },
+    {
+        "content_text":"The reign of dinosaurs",
+        "start_date":"-231000000",
+        "end_date":"-66000000"
+    },
+    {
+        "content_text":"Pangea fully formed",
+        "start_date":"-250000000",
+        "end_date":""
+    },
+    {
+        "content_text":"Four-limed vertebrates migrate to land",
+        "start_date":"-360000000",
+        "end_date":""
+    },
+    {
+        "content_text":"First centipede",
+        "start_date":"-416000000",
+        "end_date":""
+    },
+    {
+        "content_text":"Land plants evolve",
+        "start_date":"-420000000",
+        "end_date":""
+    },
+    {
+        "content_text":"First fish",
+        "start_date":"-500000000",
+        "end_date":""
+    },
+    {
+        "content_text":"First animals",
+        "start_date":"-600000000",
+        "end_date":""
+    },
+    {
+        "content_text":"First multicellular life",
+        "start_date":"-1200000000",
+        "end_date":""
+    },
+    {
+        "content_text":"First complex cells: Eukaryotes",
+        "start_date":"-2000000000",
+        "end_date":""
+    },
+    {
+        "content_text":"Photosynthesis accelerates",
+        "start_date":"-3000000000",
+        "end_date":""
+    },
+    {
+        "content_text":"The first life: Prokaryotes",
+        "start_date":"-3600000000",
+        "end_date":""
+    },
+    {
+        "content_text":"The late heavy bombardment",
+        "start_date":"-4100000000",
+        "end_date":""
+    },
+    {
+        "content_text":"The Sun and the Earth are formed",
+        "start_date":"-4600000000",
+        "end_date":"-4540000000"
+    },
+    {
+        "content_text":"Big Bang",
+        "start_date":"-13800000000",
+        "end_date":""
+    }
+]

@@ -1,0 +1,126 @@
+start_date,end_date,category,facet,content_text
+-0800,-0701,Greek,Greek,Homer
+-0750,-0650,Greek,Greek,Hesiod
+-0624,-0546,Greek,Greek,Thales
+-0610,-0546,Greek,Greek,Anaximander
+-0585,-0525,Greek,Greek,Anaximenes
+-0582,-0496,Greek,Greek,Pythagoras
+-0470,-0380,Greek,Greek,Philolaus
+-0428,-0347,Greek,Greek,Archytas
+-0570,-0470,Greek,Greek,Xenophanes
+-0510,-0440,Greek,Greek,Parmenides
+-0535,-0475,Greek,Greek,Heraclitus
+-0490,-0430,Greek,Greek,Empedocles
+-0500,-0428,Greek,Greek,Anaxagoras
+-0480,-0420,Greek,Greek,Leucippus
+-0460,-0370,Greek,Greek,Democritus
+-0490,-0420,Greek,Greek,Protagoras
+-0487,-0376,Greek,Greek,Gorgias
+-0371,-0287,Greek,Greek,Theophrastus
+-0469,-0399,Greek,Greek,Socrates
+-0450,-0380,Greek,Greek,Euclid of Megara
+-0445,-0360,Greek,Greek,Antisthenes
+-0435,-0356,Greek,Greek,Aristippus
+-0428,-0347,Greek,Greek,Plato
+-0405,-0320,Greek,Greek,Diogenes of Sinope
+-0396,-0314,Greek,Greek,Xenocrates
+-0384,-0322,Greek,Greek,Aristotle
+-0341,-0270,Greek,Greek,Epicurus
+-0287,-0212,Greek,Greek,Archimedes
+-0280,-0207,Greek,Greek,Chrysippus
+-0360,-0280,Greek,Greek,Stilpo
+-0334,-0262,Greek,Greek,Zeno of Citium
+-0187,-0109,Greek,Greek,Clitomachus
+-0106,-0043,Roman,Roman,Cicero
+-0094,-0055,Roman,Roman,Lucretius
+-0004,0065,Roman,Roman,Seneca
+0030,0100,Roman,Roman,Musonius Rufus
+0045,0120,Greek,Greek,Plutarch
+0055,0135,Greek,Greek,Epictetus
+0070,0156,Roman,Roman,Polycarp
+0121,0180,Roman,Roman,Marcus Aurelius
+0150,0215,Greek,Greek,Clement of Alexandria
+0160,0210,Roman,Roman,Sextus Empiricus
+0205,0270,Roman,Roman,Plotinus
+0232,0304,Roman,Roman,Porphyry
+0270,0351,Greek,Greek,Nicolaus of Myra
+0295,0373,Coptic,Coptic,Athanasius
+0315,0367,Roman,Roman,Hilarius of Poitiers
+0317,0388,Greek,Greek,Themistius
+0329,0390,Greek,Greek,Gregorius of Nazianz
+0330,0379,Greek,Greek,Basilius
+0335,0394,Roman,Roman,Gregorius of Nyssa
+0339,0397,Roman,Roman,Ambrosius
+0340,0420,Roman,Roman,Hieronymus
+0354,0407,Roman,Roman,Chrisostomos
+0381,0444,Greek,Greek,Cyrill
+0411,0485,Greek,Greek,Proclus
+0462,0540,Greek,Greek,Damascius
+0472,0524,Roman,Roman,Boethius
+1033,1109,English / Scottish / Irish,English / Scottish / Irish,Anselm of Canterbury
+1091,1153,French,French,Bernhard of Clairvaux
+1135,1204,Jewish,Jewish,Maimonides
+1221,1274,Italian,Italian,Bonaventura
+1225,1274,Italian,Italian,Thomas of Aquino
+1235,1315,Majorcan,Majorcan,Rymundus Lullus
+1193,1280,Germanic,Germanic,Albertus Magnus
+1265,1321,Italian,Italian,Dante
+1266,1308,English / Scottish / Irish,English / Scottish / Irish,Duns Scotus
+1287,1347,English / Scottish / Irish,English / Scottish / Irish,Occam
+1396,1484,Greek,Greek,Trapezuntius
+1401,1464,Germanic,Germanic,Cusanus
+1443,1485,Germanic,Germanic,Agricola
+1452,1498,Italian,Italian,Savonarola
+1467,1536,Germanic,Germanic,Erasmus
+1469,1527,Italian,Italian,Machiavelli
+1478,1535,English / Scottish / Irish,English / Scottish / Irish,Morus
+1473,1543,Germanic,Germanic,Kopernikus
+1483,1546,Germanic,Germanic,Luther
+1484,1531,Germanic,Germanic,Zwingli
+1486,1535,Germanic,Germanic,Agrippa
+1493,1541,Germanic,Germanic,Paracelsus
+1497,1560,Germanic,Germanic,Melanchton
+1509,1564,French,French,Calvin
+1540,1609,French,French,Scaliger
+1546,1601,Germanic,Germanic,Brahe
+1560,1626,English / Scottish / Irish,English / Scottish / Irish,Bacon
+1564,1642,Italian,Italian,Galilei
+1588,1679,English / Scottish / Irish,English / Scottish / Irish,Hobbes
+1596,1659,French,French,Descartes
+1623,1662,French,French,Pascal
+1632,1677,Germanic,Germanic,Spinoza
+1646,1716,Germanic,Germanic,Leibniz
+1685,1735,English / Scottish / Irish,English / Scottish / Irish,Berkeley
+1711,1776,English / Scottish / Irish,English / Scottish / Irish,Hume
+1724,1804,Germanic,Germanic,Kant
+1743,1819,Germanic,Germanic,Jacobi
+1748,1832,English / Scottish / Irish,English / Scottish / Irish,Bentham
+1770,1831,Germanic,Germanic,Hegel
+1775,1854,Germanic,Germanic,Schelling
+1762,1814,Germanic,Germanic,Fichte
+1788,1860,Germanic,Germanic,Schopenhauer
+1818,1883,Germanic,Germanic,Marx
+1833,1921,Germanic,Germanic,Dühring
+1833,1911,Germanic,Germanic,Dilthey
+1844,1900,Germanic,Germanic,Nietzsche
+1848,1925,Germanic,Germanic,Frege
+1859,1952,American,American,Dewey
+1859,1941,French,French,Bergson
+1872,1970,English / Scottish / Irish,English / Scottish / Irish,Russell
+1873,1958,English / Scottish / Irish,English / Scottish / Irish,Moore
+1874,1928,Germanic,Germanic,Scheler
+1882,1936,Germanic,Germanic,Schlick
+1885,1977,Germanic,Germanic,Bloch
+1889,1951,Germanic,Germanic,Wittgenstein
+1890,1963,Slavic,Slavic,Ajdukiewicz
+1900,1976,English / Scottish / Irish,English / Scottish / Irish,Ryle
+1902,1995,Slavic,Slavic,Bochenski
+1902,1994,Germanic,Germanic,Popper
+1903,1993,Germanic,Germanic,Jonas
+1903,1969,Germanic,Germanic,Adorno
+1908,2000,American,American,Quine
+1910,1989,English / Scottish / Irish,English / Scottish / Irish,Ayer
+1911,1960,English / Scottish / Irish,English / Scottish / Irish,Austin
+1921,2002,American,American,Rawls
+1923,1991,Germanic,Germanic,Stegmüller
+1931,2007,American,American,Rorty

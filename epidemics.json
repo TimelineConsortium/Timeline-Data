@@ -1,0 +1,1332 @@
+[
+    {
+        "start_date":"1346",
+        "end_date":"1350",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":""
+    },
+    {
+        "start_date":"1592",
+        "end_date":"",
+        "category":"Measles",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1596",
+        "end_date":"1602",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Spain"
+    },
+    {
+        "start_date":"1600",
+        "end_date":"1650",
+        "category":"Malaria",
+        "facet":"South America",
+        "content_text":""
+    },
+    {
+        "start_date":"1609",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Middle East and North Africa",
+        "content_text":"Egypt"
+    },
+    {
+        "start_date":"1616",
+        "end_date":"1619",
+        "category":"Unknown or other epidemics",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1629",
+        "end_date":"1631",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Italy"
+    },
+    {
+        "start_date":"1630",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":"Canada"
+    },
+    {
+        "start_date":"1641",
+        "end_date":"1644",
+        "category":"(Bubonic) Plague",
+        "facet":"Asia",
+        "content_text":"China"
+    },
+    {
+        "start_date":"1647",
+        "end_date":"1652",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Spain"
+    },
+    {
+        "start_date":"1648",
+        "end_date":"",
+        "category":"Yellow Fever",
+        "facet":"South America",
+        "content_text":"Yellow Fever"
+    },
+    {
+        "start_date":"1656",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Italy"
+    },
+    {
+        "start_date":"1663",
+        "end_date":"1664",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Netherlands"
+    },
+    {
+        "start_date":"1665",
+        "end_date":"1666",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"England"
+    },
+    {
+        "start_date":"1668",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"France"
+    },
+    {
+        "start_date":"1676",
+        "end_date":"1685",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Spain"
+    },
+    {
+        "start_date":"1702",
+        "end_date":"1703",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":"Canada"
+    },
+    {
+        "start_date":"1710",
+        "end_date":"1711",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Sweden"
+    },
+    {
+        "start_date":"1713",
+        "end_date":"1715",
+        "category":"Measles",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1714",
+        "end_date":"1715",
+        "category":"Measles",
+        "facet":"North America",
+        "content_text":"Canada"
+    },
+    {
+        "start_date":"1720",
+        "end_date":"1722",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"France"
+    },
+    {
+        "start_date":"1721",
+        "end_date":"1722",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1732",
+        "end_date":"1733",
+        "category":"Influenza",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1733",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":"Canada"
+    },
+    {
+        "start_date":"1738",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Balkans"
+    },
+    {
+        "start_date":"1739",
+        "end_date":"1740",
+        "category":"Measles",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1755",
+        "end_date":"1756",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":""
+    },
+    {
+        "start_date":"1759",
+        "end_date":"",
+        "category":"Measles",
+        "facet":"North America",
+        "content_text":""
+    },
+    {
+        "start_date":"1761",
+        "end_date":"",
+        "category":"Influenza",
+        "facet":"North America",
+        "content_text":""
+    },
+    {
+        "start_date":"1770",
+        "end_date":"1772",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Russia"
+    },
+    {
+        "start_date":"1770",
+        "end_date":"1779",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1772",
+        "end_date":"",
+        "category":"Measles",
+        "facet":"North America",
+        "content_text":""
+    },
+    {
+        "start_date":"1775",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"North America",
+        "content_text":""
+    },
+    {
+        "start_date":"1775",
+        "end_date":"1776",
+        "category":"Influenza",
+        "facet":"Europe",
+        "content_text":"England"
+    },
+    {
+        "start_date":"1780",
+        "end_date":"1782",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":""
+    },
+    {
+        "start_date":"1788",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":""
+    },
+    {
+        "start_date":"1789",
+        "end_date":"1790",
+        "category":"Smallpox",
+        "facet":"Oceania",
+        "content_text":"Australia"
+    },
+    {
+        "start_date":"1793",
+        "end_date":"1798",
+        "category":"Yellow Fever",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1800",
+        "end_date":"1803",
+        "category":"Yellow Fever",
+        "facet":"Europe",
+        "content_text":"Spain"
+    },
+    {
+        "start_date":"1801",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Middle East and North Africa",
+        "content_text":"Egpyt"
+    },
+    {
+        "start_date":"1812",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Middle East and North Africa",
+        "content_text":"Egpyt"
+    },
+    {
+        "start_date":"1813",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Malta"
+    },
+    {
+        "start_date":"1816",
+        "end_date":"1819",
+        "category":"Unknown or other epidemics",
+        "facet":"Europe",
+        "content_text":"Ireland (Typhus)"
+    },
+    {
+        "start_date":"1816",
+        "end_date":"1826",
+        "category":"Cholera",
+        "facet":"Worldwide",
+        "content_text":""
+    },
+    {
+        "start_date":"1820",
+        "end_date":"1823",
+        "category":"Unknown or other epidemics",
+        "facet":"North America",
+        "content_text":"USA (Fever)"
+    },
+    {
+        "start_date":"1828",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"Oceania",
+        "content_text":"Australia"
+    },
+    {
+        "start_date":"1829",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"Oceania",
+        "content_text":"Australia"
+    },
+    {
+        "start_date":"1829",
+        "end_date":"1835",
+        "category":"(Bubonic) Plague",
+        "facet":"Middle East and North Africa",
+        "content_text":"Iran"
+    },
+    {
+        "start_date":"1829",
+        "end_date":"1851",
+        "category":"Cholera",
+        "facet":"Worldwide",
+        "content_text":""
+    },
+    {
+        "start_date":"1831",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Middle East and North Africa",
+        "content_text":"Egypt"
+    },
+    {
+        "start_date":"1831",
+        "end_date":"1834",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1834",
+        "end_date":"1836",
+        "category":"(Bubonic) Plague",
+        "facet":"Middle East and North Africa",
+        "content_text":"Egypt"
+    },
+    {
+        "start_date":"1837",
+        "end_date":"1838",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1840",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Dalmatia"
+    },
+    {
+        "start_date":"1841",
+        "end_date":"",
+        "category":"Yellow Fever",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1847",
+        "end_date":"1848",
+        "category":"Unknown or other epidemics",
+        "facet":"North America",
+        "content_text":"Canada (Typhus)"
+    },
+    {
+        "start_date":"1847",
+        "end_date":"",
+        "category":"Yellow Fever",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1847",
+        "end_date":"1848",
+        "category":"Influenza",
+        "facet":"Worldwide",
+        "content_text":""
+    },
+    {
+        "start_date":"1848",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Middle East and North Africa",
+        "content_text":"Egypt"
+    },
+    {
+        "start_date":"1848",
+        "end_date":"1849",
+        "category":"Cholera",
+        "facet":"North America",
+        "content_text":""
+    },
+    {
+        "start_date":"1850",
+        "end_date":"",
+        "category":"Yellow Fever",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1850",
+        "end_date":"1851",
+        "category":"Influenza",
+        "facet":"North America",
+        "content_text":""
+    },
+    {
+        "start_date":"1852",
+        "end_date":"1860",
+        "category":"Cholera",
+        "facet":"Europe",
+        "content_text":"Russia"
+    },
+    {
+        "start_date":"1853",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Middle East and North Africa",
+        "content_text":"Yemen"
+    },
+    {
+        "start_date":"1853",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Europe",
+        "content_text":"Denmark"
+    },
+    {
+        "start_date":"1855",
+        "end_date":"",
+        "category":"Yellow Fever",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1855",
+        "end_date":"1950",
+        "category":"(Bubonic) Plague",
+        "facet":"Worldwide",
+        "content_text":""
+    },
+    {
+        "start_date":"1857",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"Oceania",
+        "content_text":"Australia"
+    },
+    {
+        "start_date":"1857",
+        "end_date":"1859",
+        "category":"Influenza",
+        "facet":"North America",
+        "content_text":""
+    },
+    {
+        "start_date":"1863",
+        "end_date":"1879",
+        "category":"Cholera",
+        "facet":"Middle East and North Africa",
+        "content_text":""
+    },
+    {
+        "start_date":"1865",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Middle East and North Africa",
+        "content_text":""
+    },
+    {
+        "start_date":"1866",
+        "end_date":"1867",
+        "category":"Cholera",
+        "facet":"Europe",
+        "content_text":"Russia, Germany"
+    },
+    {
+        "start_date":"1867",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Middle East and North Africa",
+        "content_text":"Iraq"
+    },
+    {
+        "start_date":"1852",
+        "end_date":"1871",
+        "category":"Yellow Fever",
+        "facet":"South America",
+        "content_text":"Argentina"
+    },
+    {
+        "start_date":"1870",
+        "end_date":"1871",
+        "category":"Yellow Fever",
+        "facet":"Europe",
+        "content_text":"Germany"
+    },
+    {
+        "start_date":"1881",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Middle East and North Africa",
+        "content_text":"Egypt"
+    },
+    {
+        "start_date":"1881",
+        "end_date":"1896",
+        "category":"Cholera",
+        "facet":"Asia",
+        "content_text":"India"
+    },
+    {
+        "start_date":"1885",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":"Canada"
+    },
+    {
+        "start_date":"1889",
+        "end_date":"1890",
+        "category":"Influenza",
+        "facet":"Worldwide",
+        "content_text":""
+    },
+    {
+        "start_date":"1896",
+        "end_date":"1906",
+        "category":"Unknown or other epidemics",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Congo (Trypanosomiasis)"
+    },
+    {
+        "start_date":"1899",
+        "end_date":"1923",
+        "category":"Cholera",
+        "facet":"Worldwide",
+        "content_text":""
+    },
+    {
+        "start_date":"1900",
+        "end_date":"1904",
+        "category":"(Bubonic) Plague",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1900",
+        "end_date":"",
+        "category":"Yellow Fever",
+        "facet":"West Africa",
+        "content_text":""
+    },
+    {
+        "start_date":"1900",
+        "end_date":"1920",
+        "category":"Unknown or other epidemics",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Uganda (Trypanosomiasis)"
+    },
+    {
+        "start_date":"1902",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Middle East and North Africa",
+        "content_text":"Egypt"
+    },
+    {
+        "start_date":"1903",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Asia",
+        "content_text":"India"
+    },
+    {
+        "start_date":"1910",
+        "end_date":"1912",
+        "category":"(Bubonic) Plague",
+        "facet":"Asia",
+        "content_text":"China"
+    },
+    {
+        "start_date":"1918",
+        "end_date":"1920",
+        "category":"Influenza",
+        "facet":"Worldwide",
+        "content_text":""
+    },
+    {
+        "start_date":"1918",
+        "end_date":"1922",
+        "category":"Unknown or other epidemics",
+        "facet":"Europe",
+        "content_text":"Russia (Typhus)"
+    },
+    {
+        "start_date":"1942",
+        "end_date":"1944",
+        "category":"Malaria",
+        "facet":"Middle East and North Africa",
+        "content_text":"Egypt"
+    },
+    {
+        "start_date":"1946",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"Middle East and North Africa",
+        "content_text":"Egypt (Fever)"
+    },
+    {
+        "start_date":"1947",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Middle East and North Africa",
+        "content_text":"Egypt"
+    },
+    {
+        "start_date":"1957",
+        "end_date":"1958",
+        "category":"Influenza",
+        "facet":"Worldwide",
+        "content_text":""
+    },
+    {
+        "start_date":"1968",
+        "end_date":"1969",
+        "category":"Influenza",
+        "facet":"Asia",
+        "content_text":"Hong Kong"
+    },
+    {
+        "start_date":"1972",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"Europe",
+        "content_text":"Yugoslavia"
+    },
+    {
+        "start_date":"1972",
+        "end_date":"1973",
+        "category":"Influenza",
+        "facet":"North America",
+        "content_text":"United States"
+    },
+    {
+        "start_date":"1974",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"Asia",
+        "content_text":"India"
+    },
+    {
+        "start_date":"1990",
+        "end_date":"2000",
+        "category":"Cholera",
+        "facet":"South America",
+        "content_text":""
+    },
+    {
+        "start_date":"1994",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Asia",
+        "content_text":"India"
+    },
+    {
+        "start_date":"1996",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"West Africa",
+        "content_text":"(Meningitis)"
+    },
+    {
+        "start_date":"2000",
+        "end_date":"",
+        "category":"Dengue Fever",
+        "facet":"North America",
+        "content_text":"Central America"
+    },
+    {
+        "start_date":"2001",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"West Africa",
+        "content_text":"Nigeria"
+    },
+    {
+        "start_date":"2001",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"South Africa"
+    },
+    {
+        "start_date":"2002",
+        "end_date":"2003",
+        "category":"Unknown or other epidemics",
+        "facet":"Asia",
+        "content_text":"(Coronavirus / SARS)"
+    },
+    {
+        "start_date":"2003",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Middle East and North Africa",
+        "content_text":"Algeria"
+    },
+    {
+        "start_date":"2004",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"Asia",
+        "content_text":"Afghanistan (Leishmaniasis)"
+    },
+    {
+        "start_date":"2004",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Asia",
+        "content_text":"Bangladesh"
+    },
+    {
+        "start_date":"2004",
+        "end_date":"",
+        "category":"Dengue Fever",
+        "facet":"Asia",
+        "content_text":"Indonesia"
+    },
+    {
+        "start_date":"2004",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"West Africa",
+        "content_text":"Senegal"
+    },
+    {
+        "start_date":"2005",
+        "end_date":"",
+        "category":"Yellow Fever",
+        "facet":"West Africa",
+        "content_text":"Mali"
+    },
+    {
+        "start_date":"2005",
+        "end_date":"",
+        "category":"Dengue Fever",
+        "facet":"Asia",
+        "content_text":"Singapore"
+    },
+    {
+        "start_date":"2006",
+        "end_date":"",
+        "category":"Malaria",
+        "facet":"Asia",
+        "content_text":"India"
+    },
+    {
+        "start_date":"2006",
+        "end_date":"",
+        "category":"Dengue Fever",
+        "facet":"Asia",
+        "content_text":"India"
+    },
+    {
+        "start_date":"2006",
+        "end_date":"",
+        "category":"Dengue Fever",
+        "facet":"Asia",
+        "content_text":"Pakistan"
+    },
+    {
+        "start_date":"2006",
+        "end_date":"",
+        "category":"Dengue Fever",
+        "facet":"Asia",
+        "content_text":"Philippines"
+    },
+    {
+        "start_date":"2007",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Congo (Ebola)"
+    },
+    {
+        "start_date":"2007",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Ethiopia"
+    },
+    {
+        "start_date":"2007",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Middle East and North Africa",
+        "content_text":"Iraq"
+    },
+    {
+        "start_date":"2007",
+        "end_date":"",
+        "category":"Dengue Fever",
+        "facet":"North America",
+        "content_text":""
+    },
+    {
+        "start_date":"2007",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Somalia"
+    },
+    {
+        "start_date":"2007",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Asia",
+        "content_text":"Vietnam"
+    },
+    {
+        "start_date":"2008",
+        "end_date":"",
+        "category":"Dengue Fever",
+        "facet":"South America",
+        "content_text":"Brazil"
+    },
+    {
+        "start_date":"2008",
+        "end_date":"",
+        "category":"Dengue Fever",
+        "facet":"Asia",
+        "content_text":"Cambodia"
+    },
+    {
+        "start_date":"2008",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Chad"
+    },
+    {
+        "start_date":"2008",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"Asia",
+        "content_text":"China (Hand, Foot, and Mouth Disease)"
+    },
+    {
+        "start_date":"2008",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Madigascar"
+    },
+    {
+        "start_date":"2008",
+        "end_date":"",
+        "category":"Dengue Fever",
+        "facet":"Asia",
+        "content_text":"Philippines"
+    },
+    {
+        "start_date":"2008",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Asia",
+        "content_text":"Vietnam"
+    },
+    {
+        "start_date":"2008",
+        "end_date":"2009",
+        "category":"Cholera",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Zimbabwe"
+    },
+    {
+        "start_date":"2009",
+        "end_date":"",
+        "category":"Dengue Fever",
+        "facet":"South America",
+        "content_text":"Bolivia"
+    },
+    {
+        "start_date":"2009",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"Asia",
+        "content_text":"India (Hepatitis B)"
+    },
+    {
+        "start_date":"2009",
+        "end_date":"",
+        "category":"Dengue Fever",
+        "facet":"Oceania",
+        "content_text":"Australia"
+    },
+    {
+        "start_date":"2000",
+        "end_date":"2010",
+        "category":"Unknown or other epidemics",
+        "facet":"Worldwide",
+        "content_text":"(Mumps)"
+    },
+    {
+        "start_date":"2009",
+        "end_date":"2010",
+        "category":"Unknown or other epidemics",
+        "facet":"West Africa",
+        "content_text":"(Meningitis)"
+    },
+    {
+        "start_date":"2009",
+        "end_date":"",
+        "category":"Influenza",
+        "facet":"Worldwide",
+        "content_text":""
+    },
+    {
+        "start_date":"2010",
+        "end_date":"2015",
+        "category":"Cholera",
+        "facet":"North America",
+        "content_text":"Haiti"
+    },
+    {
+        "start_date":"2011",
+        "end_date":"2015",
+        "category":"Measles",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Congo"
+    },
+    {
+        "start_date":"2011",
+        "end_date":"2015",
+        "category":"Dengue Fever",
+        "facet":"Asia",
+        "content_text":"Pakistan"
+    },
+    {
+        "start_date":"2012",
+        "end_date":"2015",
+        "category":"Unknown or other epidemics",
+        "facet":"Worldwide",
+        "content_text":"(Coronavirus / MERS)"
+    },
+    {
+        "start_date":"2013",
+        "end_date":"2015",
+        "category":"Unknown or other epidemics",
+        "facet":"West Africa",
+        "content_text":"(Ebola)"
+    },
+    {
+        "start_date":"2015",
+        "end_date":"",
+        "category":"Influenza",
+        "facet":"Asia",
+        "content_text":"India"
+    },
+    {
+        "start_date":"1576",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"North America",
+        "content_text":"Mexico (Fever)"
+    },
+    {
+        "start_date":"1603",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"England"
+    },
+    {
+        "start_date":"1633",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1634",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1636",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1657",
+        "end_date":"",
+        "category":"Measles",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1679",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Austria"
+    },
+    {
+        "start_date":"1690",
+        "end_date":"",
+        "category":"Yellow Fever",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1713",
+        "end_date":"",
+        "category":"Measles",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1729",
+        "end_date":"",
+        "category":"Measles",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1730",
+        "end_date":"",
+        "category":"Yellow Fever",
+        "facet":"Europe",
+        "content_text":"Spain"
+    },
+    {
+        "start_date":"1738",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1743",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Italy"
+    },
+    {
+        "start_date":"1747",
+        "end_date":"",
+        "category":"Measles",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1778",
+        "end_date":"",
+        "category":"Dengue Fever",
+        "facet":"Europe",
+        "content_text":"Spain"
+    },
+    {
+        "start_date":"1788",
+        "end_date":"",
+        "category":"Measles",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1793",
+        "end_date":"",
+        "category":"Influenza",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1793",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"North America",
+        "content_text":"USA (Typhus)"
+    },
+    {
+        "start_date":"1793",
+        "end_date":"",
+        "category":"Influenza",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1812",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Asia",
+        "content_text":"Ottoman Empire"
+    },
+    {
+        "start_date":"1813",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Europe",
+        "content_text":"Romania"
+    },
+    {
+        "start_date":"1821",
+        "end_date":"",
+        "category":"Yellow Fever",
+        "facet":"Europe",
+        "content_text":"Spain"
+    },
+    {
+        "start_date":"1829",
+        "end_date":"",
+        "category":"Malaria",
+        "facet":"Europe",
+        "content_text":"Netherlands"
+    },
+    {
+        "start_date":"1832",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Europe",
+        "content_text":"England"
+    },
+    {
+        "start_date":"1832",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"North America",
+        "content_text":""
+    },
+    {
+        "start_date":"1833",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1834",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1840",
+        "end_date":"",
+        "category":"Smallpox",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"South Africa"
+    },
+    {
+        "start_date":"1847",
+        "end_date":"",
+        "category":"Yellow Fever",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1851",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1852",
+        "end_date":"",
+        "category":"Yellow Fever",
+        "facet":"North America",
+        "content_text":"USA"
+    },
+    {
+        "start_date":"1854",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Europe",
+        "content_text":"England (Broad Street)"
+    },
+    {
+        "start_date":"1857",
+        "end_date":"",
+        "category":"Yellow Fever",
+        "facet":"Europe",
+        "content_text":"Portugal"
+    },
+    {
+        "start_date":"1867",
+        "end_date":"",
+        "category":"Measles",
+        "facet":"Oceania",
+        "content_text":"Australia"
+    },
+    {
+        "start_date":"1875",
+        "end_date":"",
+        "category":"Measles",
+        "facet":"Oceania",
+        "content_text":"Fiji"
+    },
+    {
+        "start_date":"1877",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Asia",
+        "content_text":"Azerbaijan"
+    },
+    {
+        "start_date":"1946",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Asia",
+        "content_text":"China"
+    },
+    {
+        "start_date":"1961",
+        "end_date":"2015",
+        "category":"Cholera",
+        "facet":"Worldwide",
+        "content_text":""
+    },
+    {
+        "start_date":"1971",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"Europe",
+        "content_text":"Netherlands (Poliomyelitis)"
+    },
+    {
+        "start_date":"1960",
+        "end_date":"2015",
+        "category":"Unknown or other epidemics",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"HIV/AIDS"
+    },
+    {
+        "start_date":"2004",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Sudan (Ebola)"
+    },
+    {
+        "start_date":"2006",
+        "end_date":"",
+        "category":"Cholera",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Angola"
+    },
+    {
+        "start_date":"2006",
+        "end_date":"",
+        "category":"(Bubonic) Plague",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Congo"
+    },
+    {
+        "start_date":"2006",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"Asia",
+        "content_text":"India (Chikungunya Virus)"
+    },
+    {
+        "start_date":"2007",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Congo (Ebola)"
+    },
+    {
+        "start_date":"2007",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"West Africa",
+        "content_text":"Nigeria (Poliomyelitis)"
+    },
+    {
+        "start_date":"2007",
+        "end_date":"",
+        "category":"Unknown or other epidemics",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Uganda (Ebola)"
+    },
+    {
+        "start_date":"2011",
+        "end_date":"2015",
+        "category":"Unknown or other epidemics",
+        "facet":"Asia",
+        "content_text":"Vietnam (Hand, Foot, and Mouth Disease)"
+    },
+    {
+        "start_date":"2014",
+        "end_date":"2015",
+        "category":"(Bubonic) Plague",
+        "facet":"Sub-Saharan Africa",
+        "content_text":"Madagascar"
+    }
+]

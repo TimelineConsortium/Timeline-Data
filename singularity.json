@@ -1,0 +1,112 @@
+[
+    {
+        "content_text":"Personal computer",
+        "start_date":"1975",
+        "end_date":""
+    },
+    {
+        "content_text":"Computer",
+        "start_date":"1950",
+        "end_date":""
+    },
+    {
+        "content_text":"Telephone, electricity, radio",
+        "start_date":"1875",
+        "end_date":""
+    },
+    {
+        "content_text":"Industrial revolution",
+        "start_date":"1760",
+        "end_date":""
+    },
+    {
+        "content_text":"Printing, experimental method",
+        "start_date":"1440",
+        "end_date":""
+    },
+    {
+        "content_text":"City states",
+        "start_date":"-800",
+        "end_date":""
+    },
+    {
+        "content_text":"Writing, wheel",
+        "start_date":"-5500",
+        "end_date":""
+    },
+    {
+        "content_text":"Agriculture",
+        "start_date":"-13000",
+        "end_date":""
+    },
+    {
+        "content_text":"Art, early cities",
+        "start_date":"-40000",
+        "end_date":""
+    },
+    {
+        "content_text":"Homo Sapiens Sapiens",
+        "start_date":"-200000",
+        "end_date":""
+    },
+    {
+        "content_text":"Homo Sapiens",
+        "start_date":"-600000",
+        "end_date":""
+    },
+    {
+        "content_text":"Spoken language",
+        "start_date":"-100000",
+        "end_date":""
+    },
+    {
+        "content_text":"Genus Homo, Homo Erectus, specialized stone tools",
+        "start_date":"-2800000",
+        "end_date":""
+    },
+    {
+        "content_text":"Human ancestors walk upright",
+        "start_date":"-4200000",
+        "end_date":""
+    },
+    {
+        "content_text":"Family Hominidae",
+        "start_date":"-14000000",
+        "end_date":""
+    },
+    {
+        "content_text":"Superfamily Hominoidea",
+        "start_date":"-2500000",
+        "end_date":""
+    },
+    {
+        "content_text":"Primates",
+        "start_date":"-65000000",
+        "end_date":""
+    },
+    {
+        "content_text":"Class mammalia",
+        "start_date":"-225000000",
+        "end_date":""
+    },
+    {
+        "content_text":"Reptiles",
+        "start_date":"-312000000",
+        "end_date":""
+    },
+    {
+        "content_text":"Cambrian Explosion (body plans)",
+        "start_date":"-542000000",
+        "end_date":""
+    },
+    {
+        "content_text":"Eukaryotic cells, multicellular organisms",
+        "start_date":"-2700000000",
+        "end_date":""
+    },
+    {
+        "content_text":"Life",
+        "start_date":"-3500000000",
+        "end_date":""
+    }
+]

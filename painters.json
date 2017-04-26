@@ -1,0 +1,1332 @@
+[
+    {
+        "start_date":"1912-01-28",
+        "end_date":"1956-08-11",
+        "content_text":"born: Cody, United States; died: Springs, United States",
+        "facet": "Pollock, Jackson",
+        "category": "lifespan"
+    },
+    {
+        "start_date":"1928",
+        "end_date":"",
+        "content_text":"Echo Park",
+        "facet": "Pollock, Jackson",
+        "category": "travel"
+    },
+    {
+        "start_date":"1930",
+        "end_date":"",
+        "content_text":"New York",
+        "facet": "Pollock, Jackson",
+        "category": "travel"
+    },
+    {
+        "start_date":"1945",
+        "end_date":"",
+        "content_text":"Springs",
+        "facet": "Pollock, Jackson",
+        "category": "travel"
+    },
+    {
+        "start_date":"1945",
+        "end_date":"",
+        "content_text":"Lee Krasner",
+        "facet": "Pollock, Jackson",
+        "category": "lover"
+    },
+    {
+        "start_date":"1956",
+        "end_date":"",
+        "content_text":"Ruth Kligman",
+        "facet": "Pollock, Jackson",
+        "category": "lover"
+    },
+    {
+        "start_date":"1935",
+        "end_date":"1940",
+        "content_text":"Expressionism",
+        "facet": "Pollock, Jackson",
+        "category": "period"
+    },
+    {
+        "start_date":"1940",
+        "end_date":"1953",
+        "content_text":"Abstract Art",
+        "facet": "Pollock, Jackson",
+        "category": "period"
+    },
+    {
+        "start_date":"1945",
+        "end_date":"1953",
+        "content_text":"Action Painting",
+        "facet": "Pollock, Jackson",
+        "category": "period"
+    },
+    {
+        "start_date":"1904-05-11",
+        "end_date":"1989-01-23",
+        "content_text":"born: Figueres, Spain; died: Figueres, Spain",
+        "facet": "Dalì, Salvador",
+        "category": "lifespan"
+    },
+    {
+        "start_date":"1920",
+        "end_date":"",
+        "content_text":"Madrid",
+        "facet": "Dalì, Salvador",
+        "category": "travel"
+    },
+    {
+        "start_date":"1926",
+        "end_date":"",
+        "content_text":"Barcelona",
+        "facet": "Dalì, Salvador",
+        "category": "travel"
+    },
+    {
+        "start_date":"1936",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Dalì, Salvador",
+        "category": "travel"
+    },
+    {
+        "start_date":"1939",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Dalì, Salvador",
+        "category": "travel"
+    },
+    {
+        "start_date":"1938",
+        "end_date":"",
+        "content_text":"London",
+        "facet": "Dalì, Salvador",
+        "category": "travel"
+    },
+    {
+        "start_date":"1940",
+        "end_date":"",
+        "content_text":"United States",
+        "facet": "Dalì, Salvador",
+        "category": "travel"
+    },
+    {
+        "start_date":"1948",
+        "end_date":"",
+        "content_text":"Barcelona",
+        "facet": "Dalì, Salvador",
+        "category": "travel"
+    },
+    {
+        "start_date":"1970",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Dalì, Salvador",
+        "category": "travel"
+    },
+    {
+        "start_date":"1978",
+        "end_date":"",
+        "content_text":"New York",
+        "facet": "Dalì, Salvador",
+        "category": "travel"
+    },
+    {
+        "start_date":"1982",
+        "end_date":"",
+        "content_text":"Pubol",
+        "facet": "Dalì, Salvador",
+        "category": "travel"
+    },
+    {
+        "start_date":"1984",
+        "end_date":"",
+        "content_text":"Figueres",
+        "facet": "Dalì, Salvador",
+        "category": "travel"
+    },
+    {
+        "start_date":"1934",
+        "end_date":"",
+        "content_text":"Augusta Popoff",
+        "facet": "Dalì, Salvador",
+        "category": "lover"
+    },
+    {
+        "start_date":"1910",
+        "end_date":"1915",
+        "content_text":"Neoclassicism",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1915",
+        "end_date":"1920",
+        "content_text":"Cloissonism",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1920",
+        "end_date":"1925",
+        "content_text":"Impressionism",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1925",
+        "end_date":"1928",
+        "content_text":"Cubism",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1928",
+        "end_date":"1935",
+        "content_text":"Post-Impressionism",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1935",
+        "end_date":"1940",
+        "content_text":"Surrealism",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1940",
+        "end_date":"1942",
+        "content_text":"Naive",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1942",
+        "end_date":"1945",
+        "content_text":"Realism",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1945",
+        "end_date":"1950",
+        "content_text":"Pointillism",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1950",
+        "end_date":"1955",
+        "content_text":"Expressionism",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1955",
+        "end_date":"1958",
+        "content_text":"Japonism",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1958",
+        "end_date":"1963",
+        "content_text":"Abstract Art",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1963",
+        "end_date":"1965",
+        "content_text":"Dada",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1965",
+        "end_date":"1970",
+        "content_text":"Symbolism",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1970",
+        "end_date":"1975",
+        "content_text":"Metaphysical",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1975",
+        "end_date":"1977",
+        "content_text":"Op Art",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1977",
+        "end_date":"1984",
+        "content_text":"Neobaroque",
+        "facet": "Dalì, Salvador",
+        "category": "period"
+    },
+    {
+        "start_date":"1893-04-20",
+        "end_date":"1983-12-25",
+        "content_text":"born: Barcelona, Spain; died: Palma Mallorca, Spain",
+        "facet": "Miró, Joan",
+        "category": "lifespan"
+    },
+    {
+        "start_date":"1920",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Miró, Joan",
+        "category": "travel"
+    },
+    {
+        "start_date":"1928",
+        "end_date":"",
+        "content_text":"Netherlands",
+        "facet": "Miró, Joan",
+        "category": "travel"
+    },
+    {
+        "start_date":"1930",
+        "end_date":"",
+        "content_text":"Montrolig",
+        "facet": "Miró, Joan",
+        "category": "travel"
+    },
+    {
+        "start_date":"1940",
+        "end_date":"",
+        "content_text":"Palma Mallorca",
+        "facet": "Miró, Joan",
+        "category": "travel"
+    },
+    {
+        "start_date":"1942",
+        "end_date":"",
+        "content_text":"Barcelona",
+        "facet": "Miró, Joan",
+        "category": "travel"
+    },
+    {
+        "start_date":"1949",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Miró, Joan",
+        "category": "travel"
+    },
+    {
+        "start_date":"1956",
+        "end_date":"",
+        "content_text":"Palma Mallorca",
+        "facet": "Miró, Joan",
+        "category": "travel"
+    },
+    {
+        "start_date":"1968",
+        "end_date":"",
+        "content_text":"United States",
+        "facet": "Miró, Joan",
+        "category": "travel"
+    },
+    {
+        "start_date":"1929",
+        "end_date":"",
+        "content_text":"Pilar Junosca Iglesias",
+        "facet": "Miró, Joan",
+        "category": "lover"
+    },
+    {
+        "start_date":"1930",
+        "end_date":"",
+        "content_text":"Maria Dolors",
+        "facet": "Miró, Joan",
+        "category": "daughter"
+    },
+    {
+        "start_date":"1902",
+        "end_date":"1908",
+        "content_text":"Early Years",
+        "facet": "Miró, Joan",
+        "category": "period"
+    },
+    {
+        "start_date":"1908",
+        "end_date":"1938",
+        "content_text":"Surrealism",
+        "facet": "Miró, Joan",
+        "category": "period"
+    },
+    {
+        "start_date":"1943",
+        "end_date":"1963",
+        "content_text":"Abstract Art",
+        "facet": "Miró, Joan",
+        "category": "period"
+    },
+    {
+        "start_date":"1882-10-19",
+        "end_date":"1916-08-17",
+        "content_text":"born: Reggio Calabria, Italy; died: Verona, Italy",
+        "facet": "Boccioni, Umberto",
+        "category": "lifespan"
+    },
+    {
+        "start_date":"1882-10-19",
+        "end_date":"",
+        "content_text":"Forli",
+        "facet": "Boccioni, Umberto",
+        "category": "travel"
+    },
+    {
+        "start_date":"1890",
+        "end_date":"",
+        "content_text":"Padua",
+        "facet": "Boccioni, Umberto",
+        "category": "travel"
+    },
+    {
+        "start_date":"1898",
+        "end_date":"",
+        "content_text":"Catania",
+        "facet": "Boccioni, Umberto",
+        "category": "travel"
+    },
+    {
+        "start_date":"1901",
+        "end_date":"",
+        "content_text":"Rome",
+        "facet": "Boccioni, Umberto",
+        "category": "travel"
+    },
+    {
+        "start_date":"1907",
+        "end_date":"",
+        "content_text":"Russia",
+        "facet": "Boccioni, Umberto",
+        "category": "travel"
+    },
+    {
+        "start_date":"1907",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Boccioni, Umberto",
+        "category": "travel"
+    },
+    {
+        "start_date":"1916",
+        "end_date":"1916-08-17",
+        "content_text":"Verona",
+        "facet": "Boccioni, Umberto",
+        "category": "travel"
+    },
+    {
+        "start_date":"1907",
+        "end_date":"",
+        "content_text":"Augusta Popoff",
+        "facet": "Boccioni, Umberto",
+        "category": "lover"
+    },
+    {
+        "start_date":"1916",
+        "end_date":"1916-08-17",
+        "content_text":"Vittoria Colonna",
+        "facet": "Boccioni, Umberto",
+        "category": "lover"
+    },
+    {
+        "start_date":"1907",
+        "end_date":"",
+        "content_text":"Piotr",
+        "facet": "Boccioni, Umberto",
+        "category": "son"
+    },
+    {
+        "start_date":"1885",
+        "end_date":"",
+        "content_text":"Genoa",
+        "facet": "Boccioni, Umberto",
+        "category": "travel"
+    },
+    {
+        "start_date":"1893",
+        "end_date":"1897",
+        "content_text":"Early Years",
+        "facet": "Boccioni, Umberto",
+        "category": "period"
+    },
+    {
+        "start_date":"1897",
+        "end_date":"1904",
+        "content_text":"Post-Impressionism",
+        "facet": "Boccioni, Umberto",
+        "category": "period"
+    },
+    {
+        "start_date":"1904",
+        "end_date":"1910",
+        "content_text":"Impressionism",
+        "facet": "Boccioni, Umberto",
+        "category": "period"
+    },
+    {
+        "start_date":"1910",
+        "end_date":"1914",
+        "content_text":"Expressionism",
+        "facet": "Boccioni, Umberto",
+        "category": "period"
+    },
+    {
+        "start_date":"1910",
+        "end_date":"1916-08-17",
+        "content_text":"Futurism",
+        "facet": "Boccioni, Umberto",
+        "category": "period"
+    },
+    {
+        "start_date":"1881-10-25",
+        "end_date":"1973-04-08",
+        "content_text":"born: ???; died: Mougins, France",
+        "facet": "Picasso, Pablo",
+        "category": "lifespan"
+    },
+    {
+        "start_date":"1904-04-08",
+        "end_date":"",
+        "content_text":"Fernande Olivier",
+        "facet": "Picasso, Pablo",
+        "category": "lover"
+    },
+    {
+        "start_date":"1912",
+        "end_date":"",
+        "content_text":"Eva Gouel",
+        "facet": "Picasso, Pablo",
+        "category": "lover"
+    },
+    {
+        "start_date":"1918",
+        "end_date":"",
+        "content_text":"Olga Kokhlova",
+        "facet": "Picasso, Pablo",
+        "category": "lover"
+    },
+    {
+        "start_date":"1927",
+        "end_date":"",
+        "content_text":"Marie-Therese Walter",
+        "facet": "Picasso, Pablo",
+        "category": "lover"
+    },
+    {
+        "start_date":"1936",
+        "end_date":"",
+        "content_text":"Dora Maar",
+        "facet": "Picasso, Pablo",
+        "category": "lover"
+    },
+    {
+        "start_date":"1944",
+        "end_date":"",
+        "content_text":"Francoise Gilot",
+        "facet": "Picasso, Pablo",
+        "category": "lover"
+    },
+    {
+        "start_date":"1951",
+        "end_date":"",
+        "content_text":"Genevieve Laporte",
+        "facet": "Picasso, Pablo",
+        "category": "lover"
+    },
+    {
+        "start_date":"1961",
+        "end_date":"",
+        "content_text":"Jacqueline Roque",
+        "facet": "Picasso, Pablo",
+        "category": "lover"
+    },
+    {
+        "start_date":"1921",
+        "end_date":"",
+        "content_text":"Paulo",
+        "facet": "Picasso, Pablo",
+        "category": "son"
+    },
+    {
+        "start_date":"1946",
+        "end_date":"",
+        "content_text":"Claude",
+        "facet": "Picasso, Pablo",
+        "category": "son"
+    },
+    {
+        "start_date":"1935",
+        "end_date":"",
+        "content_text":"Maya",
+        "facet": "Picasso, Pablo",
+        "category": "daughter"
+    },
+    {
+        "start_date":"1949",
+        "end_date":"",
+        "content_text":"Paloma",
+        "facet": "Picasso, Pablo",
+        "category": "daughter"
+    },
+    {
+        "start_date":"1891",
+        "end_date":"",
+        "content_text":"Coruna",
+        "facet": "Picasso, Pablo",
+        "category": "travel"
+    },
+    {
+        "start_date":"1895",
+        "end_date":"",
+        "content_text":"Barcelona",
+        "facet": "Picasso, Pablo",
+        "category": "travel"
+    },
+    {
+        "start_date":"1897",
+        "end_date":"",
+        "content_text":"Madrid",
+        "facet": "Picasso, Pablo",
+        "category": "travel"
+    },
+    {
+        "start_date":"1900",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Picasso, Pablo",
+        "category": "travel"
+    },
+    {
+        "start_date":"1917",
+        "end_date":"",
+        "content_text":"Barcelona",
+        "facet": "Picasso, Pablo",
+        "category": "travel"
+    },
+    {
+        "start_date":"1936",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Picasso, Pablo",
+        "category": "travel"
+    },
+    {
+        "start_date":"1946",
+        "end_date":"",
+        "content_text":"Antibes",
+        "facet": "Picasso, Pablo",
+        "category": "travel"
+    },
+    {
+        "start_date":"1961",
+        "end_date":"",
+        "content_text":"Mougins",
+        "facet": "Picasso, Pablo",
+        "category": "travel"
+    },
+    {
+        "start_date":"1893",
+        "end_date":"1900",
+        "content_text":"Early Years",
+        "facet": "Picasso, Pablo",
+        "category": "period"
+    },
+    {
+        "start_date":"1900",
+        "end_date":"1905",
+        "content_text":"Blue Period",
+        "facet": "Picasso, Pablo",
+        "category": "period"
+    },
+    {
+        "start_date":"1904",
+        "end_date":"1907",
+        "content_text":"Rose Period",
+        "facet": "Picasso, Pablo",
+        "category": "period"
+    },
+    {
+        "start_date":"1907",
+        "end_date":"1910",
+        "content_text":"African Period",
+        "facet": "Picasso, Pablo",
+        "category": "period"
+    },
+    {
+        "start_date":"1908",
+        "end_date":"1919",
+        "content_text":"Cubism",
+        "facet": "Picasso, Pablo",
+        "category": "period"
+    },
+    {
+        "start_date":"1920",
+        "end_date":"1949",
+        "content_text":"Neoclassicism and Surrealism",
+        "facet": "Picasso, Pablo",
+        "category": "period"
+    },
+    {
+        "start_date":"1949",
+        "end_date":"1970",
+        "content_text":"Late Years",
+        "facet": "Picasso, Pablo",
+        "category": "period"
+    },
+    {
+        "start_date":"1879-12-18",
+        "end_date":"1940-06-29",
+        "content_text":"born: Munchenbuchsee bei Bern, Switzerland; died: Muralto, Switzerland",
+        "facet": "Klee, Paul",
+        "category": "lifespan"
+    },
+    {
+        "start_date":"1898",
+        "end_date":"",
+        "content_text":"Munich",
+        "facet": "Klee, Paul",
+        "category": "travel"
+    },
+    {
+        "start_date":"1903",
+        "end_date":"",
+        "content_text":"Rome",
+        "facet": "Klee, Paul",
+        "category": "travel"
+    },
+    {
+        "start_date":"1903",
+        "end_date":"",
+        "content_text":"Bern",
+        "facet": "Klee, Paul",
+        "category": "travel"
+    },
+    {
+        "start_date":"1905",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Klee, Paul",
+        "category": "travel"
+    },
+    {
+        "start_date":"1920",
+        "end_date":"",
+        "content_text":"Weimar",
+        "facet": "Klee, Paul",
+        "category": "travel"
+    },
+    {
+        "start_date":"1931",
+        "end_date":"",
+        "content_text":"Dusseldorf",
+        "facet": "Klee, Paul",
+        "category": "travel"
+    },
+    {
+        "start_date":"1933",
+        "end_date":"",
+        "content_text":"Muralto",
+        "facet": "Klee, Paul",
+        "category": "travel"
+    },
+    {
+        "start_date":"1906",
+        "end_date":"",
+        "content_text":"Lily Stumpf",
+        "facet": "Klee, Paul",
+        "category": "lover"
+    },
+    {
+        "start_date":"1907",
+        "end_date":"",
+        "content_text":"Felix",
+        "facet": "Klee, Paul",
+        "category": "son"
+    },
+    {
+        "start_date":"1909",
+        "end_date":"1913",
+        "content_text":"Expressionism",
+        "facet": "Klee, Paul",
+        "category": "period"
+    },
+    {
+        "start_date":"1914",
+        "end_date":"1922",
+        "content_text":"Surrealism",
+        "facet": "Klee, Paul",
+        "category": "period"
+    },
+    {
+        "start_date":"1922",
+        "end_date":"1930",
+        "content_text":"Cubism",
+        "facet": "Klee, Paul",
+        "category": "period"
+    },
+    {
+        "start_date":"1928",
+        "end_date":"1935",
+        "content_text":"Abstract Art",
+        "facet": "Klee, Paul",
+        "category": "period"
+    },
+    {
+        "start_date":"1935",
+        "end_date":"1940",
+        "content_text":"Fauvism",
+        "facet": "Klee, Paul",
+        "category": "period"
+    },
+    {
+        "start_date":"1872-03-07",
+        "end_date":"1944-02-01",
+        "content_text":"born: Amersfoort, Netherlands; died: New York, United States",
+        "facet": "Mondrian, Piet",
+        "category": "lifespan"
+    },
+    {
+        "start_date":"1880",
+        "end_date":"",
+        "content_text":"Winterswijk",
+        "facet": "Mondrian, Piet",
+        "category": "travel"
+    },
+    {
+        "start_date":"1892",
+        "end_date":"",
+        "content_text":"Amsterdam",
+        "facet": "Mondrian, Piet",
+        "category": "travel"
+    },
+    {
+        "start_date":"1904",
+        "end_date":"",
+        "content_text":"Brabant",
+        "facet": "Mondrian, Piet",
+        "category": "travel"
+    },
+    {
+        "start_date":"1905",
+        "end_date":"",
+        "content_text":"Amsterdam",
+        "facet": "Mondrian, Piet",
+        "category": "travel"
+    },
+    {
+        "start_date":"1912",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Mondrian, Piet",
+        "category": "travel"
+    },
+    {
+        "start_date":"1914",
+        "end_date":"",
+        "content_text":"Brabant",
+        "facet": "Mondrian, Piet",
+        "category": "travel"
+    },
+    {
+        "start_date":"1919",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Mondrian, Piet",
+        "category": "travel"
+    },
+    {
+        "start_date":"1938",
+        "end_date":"",
+        "content_text":"London",
+        "facet": "Mondrian, Piet",
+        "category": "travel"
+    },
+    {
+        "start_date":"1940",
+        "end_date":"",
+        "content_text":"New York",
+        "facet": "Mondrian, Piet",
+        "category": "travel"
+    },
+    {
+        "start_date":"1895",
+        "end_date":"1905",
+        "content_text":"Impressionism",
+        "facet": "Mondrian, Piet",
+        "category": "period"
+    },
+    {
+        "start_date":"1905",
+        "end_date":"1912",
+        "content_text":"Post-Impressionism",
+        "facet": "Mondrian, Piet",
+        "category": "period"
+    },
+    {
+        "start_date":"1915",
+        "end_date":"1925",
+        "content_text":"Fauvism",
+        "facet": "Mondrian, Piet",
+        "category": "period"
+    },
+    {
+        "start_date":"1925",
+        "end_date":"1935",
+        "content_text":"Cubism",
+        "facet": "Mondrian, Piet",
+        "category": "period"
+    },
+    {
+        "start_date":"1935",
+        "end_date":"1944",
+        "content_text":"Neoplasticism",
+        "facet": "Mondrian, Piet",
+        "category": "period"
+    },
+    {
+        "start_date":"1869-12-31",
+        "end_date":"1964-11-03",
+        "content_text":"born: Le Cateau-Cambresis, France; died: Vence, France",
+        "facet": "Matisse, Henri",
+        "category": "lifespan"
+    },
+    {
+        "start_date":"1887",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1880",
+        "end_date":"",
+        "content_text":"Saint Queintin",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1891",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1898",
+        "end_date":"",
+        "content_text":"London",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1899",
+        "end_date":"",
+        "content_text":"Corsica",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1906",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1910",
+        "end_date":"",
+        "content_text":"Germany",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1911",
+        "end_date":"",
+        "content_text":"Russia",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1912",
+        "end_date":"",
+        "content_text":"Monaco",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1914",
+        "end_date":"",
+        "content_text":"Paris",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1918",
+        "end_date":"",
+        "content_text":"Nice",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1925",
+        "end_date":"",
+        "content_text":"Italy",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1943",
+        "end_date":"",
+        "content_text":"Venice",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1948",
+        "end_date":"",
+        "content_text":"United States",
+        "facet": "Matisse, Henri",
+        "category": "travel"
+    },
+    {
+        "start_date":"1904",
+        "end_date":"",
+        "content_text":"Caroline Joblau",
+        "facet": "Matisse, Henri",
+        "category": "lover"
+    },
+    {
+        "start_date":"1908",
+        "end_date":"",
+        "content_text":"Amelie Noellie Parayre",
+        "facet": "Matisse, Henri",
+        "category": "lover"
+    },
+    {
+        "start_date":"1949",
+        "end_date":"",
+        "content_text":"Lydia Delectorskaya",
+        "facet": "Matisse, Henri",
+        "category": "lover"
+    },
+    {
+        "start_date":"1904",
+        "end_date":"",
+        "content_text":"Marguerite",
+        "facet": "Matisse, Henri",
+        "category": "daughter"
+    },
+    {
+        "start_date":"1909",
+        "end_date":"",
+        "content_text":"Jean",
+        "facet": "Matisse, Henri",
+        "category": "son"
+    },
+    {
+        "start_date":"1910",
+        "end_date":"",
+        "content_text":"Pierre",
+        "facet": "Matisse, Henri",
+        "category": "son"
+    },
+    {
+        "start_date":"1900",
+        "end_date":"1905",
+        "content_text":"Realism",
+        "facet": "Matisse, Henri",
+        "category": "period"
+    },
+    {
+        "start_date":"1905",
+        "end_date":"1913",
+        "content_text":"Post-Impressionism",
+        "facet": "Matisse, Henri",
+        "category": "period"
+    },
+    {
+        "start_date":"1912",
+        "end_date":"1918",
+        "content_text":"Divisionism",
+        "facet": "Matisse, Henri",
+        "category": "period"
+    },
+    {
+        "start_date":"1918",
+        "end_date":"1925",
+        "content_text":"Impressionism",
+        "facet": "Matisse, Henri",
+        "category": "period"
+    },
+    {
+        "start_date":"1925",
+        "end_date":"1934",
+        "content_text":"Expressionism",
+        "facet": "Matisse, Henri",
+        "category": "period"
+    },
+    {
+        "start_date":"1930",
+        "end_date":"1935",
+        "content_text":"Oreientalism",
+        "facet": "Matisse, Henri",
+        "category": "period"
+    },
+    {
+        "start_date":"1935",
+        "end_date":"1940",
+        "content_text":"Fauvism",
+        "facet": "Matisse, Henri",
+        "category": "period"
+    },
+    {
+        "start_date":"1940",
+        "end_date":"1945",
+        "content_text":"Cubism",
+        "facet": "Matisse, Henri",
+        "category": "period"
+    },
+    {
+        "start_date":"1945",
+        "end_date":"1950",
+        "content_text":"Pointillism",
+        "facet": "Matisse, Henri",
+        "category": "period"
+    },
+    {
+        "start_date":"1950",
+        "end_date":"1963",
+        "content_text":"Abstract Art",
+        "facet": "Matisse, Henri",
+        "category": "period"
+    },
+    {
+        "start_date":"1866-12-16",
+        "end_date":"1944-12-13",
+        "content_text":"born: Moscow, Russia; died: Neuilly-sur-Seine, France",
+        "facet": "Kandinsky, Wassily",
+        "category": "lifespan"
+    },
+    {
+        "start_date":"1955-12-16",
+        "end_date":"1963-12-13",
+        "content_text":"Color Field Painting",
+        "facet": "Matisse, Henri",
+        "category": "period"
+    },
+    {
+        "start_date":"1871",
+        "end_date":"",
+        "content_text":"Odessa",
+        "facet": "Kandinsky, Wassily",
+        "category": "travel"
+    },
+    {
+        "start_date":"1886",
+        "end_date":"",
+        "content_text":"Moscow",
+        "facet": "Kandinsky, Wassily",
+        "category": "travel"
+    },
+    {
+        "start_date":"1896",
+        "end_date":"",
+        "content_text":"Dessau",
+        "facet": "Kandinsky, Wassily",
+        "category": "travel"
+    },
+    {
+        "start_date":"1914",
+        "end_date":"",
+        "content_text":"Moscow",
+        "facet": "Kandinsky, Wassily",
+        "category": "travel"
+    },
+    {
+        "start_date":"1921",
+        "end_date":"",
+        "content_text":"Berlin",
+        "facet": "Kandinsky, Wassily",
+        "category": "travel"
+    },
+    {
+        "start_date":"1922",
+        "end_date":"",
+        "content_text":"Weimar",
+        "facet": "Kandinsky, Wassily",
+        "category": "travel"
+    },
+    {
+        "start_date":"1925",
+        "end_date":"",
+        "content_text":"Dessau",
+        "facet": "Kandinsky, Wassily",
+        "category": "travel"
+    },
+    {
+        "start_date":"1933",
+        "end_date":"",
+        "content_text":"Neuilly-sur-Seine",
+        "facet": "Kandinsky, Wassily",
+        "category": "travel"
+    },
+    {
+        "start_date":"1892",
+        "end_date":"",
+        "content_text":"Anna Chimyakina",
+        "facet": "Kandinsky, Wassily",
+        "category": "lover"
+    },
+    {
+        "start_date":"1902",
+        "end_date":"",
+        "content_text":"Gabriele Munter",
+        "facet": "Kandinsky, Wassily",
+        "category": "lover"
+    },
+    {
+        "start_date":"1917",
+        "end_date":"",
+        "content_text":"Lily Stumpf",
+        "facet": "Kandinsky, Wassily",
+        "category": "lover"
+    },
+    {
+        "start_date":"1917",
+        "end_date":"",
+        "content_text":"Vsevolod",
+        "facet": "Kandinsky, Wassily",
+        "category": "son"
+    },
+    {
+        "start_date":"1900",
+        "end_date":"1907",
+        "content_text":"Post-Impressionism",
+        "facet": "Kandinsky, Wassily",
+        "category": "period"
+    },
+    {
+        "start_date":"1906",
+        "end_date":"1914",
+        "content_text":"Expressionism",
+        "facet": "Kandinsky, Wassily",
+        "category": "period"
+    },
+    {
+        "start_date":"1910",
+        "end_date":"1944",
+        "content_text":"Abstract Art",
+        "facet": "Kandinsky, Wassily",
+        "category": "period"
+    },
+    {
+        "start_date":"1862-07-14",
+        "end_date":"1918-02-06",
+        "content_text":"born: Baumgarten, Austria; died: Vienna, Austria",
+        "facet": "Klimt, Gustav",
+        "category": "lifespan"
+    },
+    {
+        "start_date":"1890",
+        "end_date":"",
+        "content_text":"Emilie Louise Floge",
+        "facet": "Klimt, Gustav",
+        "category": "lover"
+    },
+    {
+        "start_date":"1897",
+        "end_date":"",
+        "content_text":"Maria Ucicky",
+        "facet": "Klimt, Gustav",
+        "category": "lover"
+    },
+    {
+        "start_date":"1898",
+        "end_date":"",
+        "content_text":"Mizzi Zimmerman",
+        "facet": "Klimt, Gustav",
+        "category": "lover"
+    },
+    {
+        "start_date":"1898",
+        "end_date":"",
+        "content_text":"Ernst",
+        "facet": "Klimt, Gustav",
+        "category": "son"
+    },
+    {
+        "start_date":"1899",
+        "end_date":"",
+        "content_text":"Gustav",
+        "facet": "Klimt, Gustav",
+        "category": "son"
+    },
+    {
+        "start_date":"1902",
+        "end_date":"",
+        "content_text":"Otto",
+        "facet": "Klimt, Gustav",
+        "category": "son"
+    },
+    {
+        "start_date":"1904",
+        "end_date":"",
+        "content_text":"Venice",
+        "facet": "Klimt, Gustav",
+        "category": "travel"
+    },
+    {
+        "start_date":"1879",
+        "end_date":"1883",
+        "content_text":"Realism",
+        "facet": "Klimt, Gustav",
+        "category": "period"
+    },
+    {
+        "start_date":"1883",
+        "end_date":"1888",
+        "content_text":"Neoclassicism",
+        "facet": "Klimt, Gustav",
+        "category": "period"
+    },
+    {
+        "start_date":"1888",
+        "end_date":"1893",
+        "content_text":"Romanticism",
+        "facet": "Klimt, Gustav",
+        "category": "period"
+    },
+    {
+        "start_date":"1895",
+        "end_date":"1903",
+        "content_text":"Symbolism",
+        "facet": "Klimt, Gustav",
+        "category": "period"
+    },
+    {
+        "start_date":"1905",
+        "end_date":"1915",
+        "content_text":"Art Nouveau",
+        "facet": "Klimt, Gustav",
+        "category": "period"
+    },
+    {
+        "start_date":"1915",
+        "end_date":"1918",
+        "content_text":"Japonism",
+        "facet": "Klimt, Gustav",
+        "category": "period"
+    }
+]

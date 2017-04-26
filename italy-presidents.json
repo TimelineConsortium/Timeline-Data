@@ -1,0 +1,93 @@
+[
+    {
+        "content_text":"Enrico De Nicola",
+        "facet":"Italy",
+        "category":"Liberal",
+        "start_date":"1948-01-01",
+        "end_date":"1948-05-11"
+    },
+    {
+        "content_text":"Luigi Einaudi",
+        "facet":"Italy",
+        "category":"Liberal",
+        "start_date":"1948-05-12",
+        "end_date":"1955-05-10"
+    },
+    {
+        "content_text":"Giovanni Gronchi",
+        "facet":"Italy",
+        "category":"Christian Democracy",
+        "start_date":"1955-05-11",
+        "end_date":"1962-05-10"
+    },
+    {
+        "content_text":"Antonio Segni",
+        "facet":"Italy",
+        "category":"Christian Democracy",
+        "start_date":"1962-05-11",
+        "end_date":"1964-12-06"
+    },
+    {
+        "content_text":"Giuseppe Saragat",
+        "facet":"Italy",
+        "category":"Democratic Socialist",
+        "start_date":"1964-12-29",
+        "end_date":"1971-12-28"
+    },
+    {
+        "content_text":"Giovanni Leone",
+        "facet":"Italy",
+        "category":"Christian Democracy",
+        "start_date":"1971-12-29",
+        "end_date":"1978-06-15"
+    },
+    {
+        "content_text":"Sandro Pertini",
+        "facet":"Italy",
+        "category":"Socialist",
+        "start_date":"1978-07-09",
+        "end_date":"1985-06-29"
+    },
+    {
+        "content_text":"Francesco Cossiga",
+        "facet":"Italy",
+        "category":"Christian Democracy",
+        "start_date":"1985-07-03",
+        "end_date":"1992-04-28"
+    },
+    {
+        "content_text":"Oscar Luigi Scalfaro",
+        "facet":"Italy",
+        "category":"Christian Democracy",
+        "start_date":"1992-05-28",
+        "end_date":"1999-05-15"
+    },
+    {
+        "content_text":"Carlo Azeglio Ciampi",
+        "facet":"Italy",
+        "category":"Independent",
+        "start_date":"1999-05-18",
+        "end_date":"2006-05-14"
+    },
+    {
+        "content_text":"Giorgio Napolitano",
+        "facet":"Italy",
+        "category":"Democrats of the Left",
+        "start_date":"2006-05-15",
+        "end_date":"2013-04-19"
+    },
+    {
+        "content_text":"Giorgio Napolitano",
+        "facet":"Italy",
+        "category":"Independent",
+        "start_date":"2013-04-20",
+        "end_date":"2015-01-14"
+    },
+    {
+        "content_text":"Sergio Mattarella",
+        "facet":"Italy",
+        "category":"Democratic",
+        "start_date":"2015-02-03",
+        "end_date":"2015-07-06"
+    }
+]

@@ -1,0 +1,821 @@
+[
+    {
+        "content_text":"Franklin D. Roosevelt",
+        "start_date":"1940-01-01",
+        "end_date":"1945-04-11",
+        "facet":"USA",
+        "category":"Left"
+    },
+    {
+        "content_text":"Harry S. Truman",
+        "start_date":"1945-04-12",
+        "end_date":"1953-01-19",
+        "facet":"USA",
+        "category":"Left"
+    },
+    {
+        "content_text":"Dwight D. Eisenhower",
+        "start_date":"1953-01-20",
+        "end_date":"1961-01-19",
+        "facet":"USA",
+        "category":"Right"
+    },
+    {
+        "content_text":"John F. Kennedy",
+        "start_date":"1961-01-20",
+        "end_date":"1963-11-22",
+        "facet":"USA",
+        "category":"Left"
+    },
+    {
+        "content_text":"Lyndon B. Johnson",
+        "start_date":"1963-11-23",
+        "end_date":"1969-01-19",
+        "facet":"USA",
+        "category":"Left"
+    },
+    {
+        "content_text":"Richard Nixon",
+        "start_date":"1969-01-20",
+        "end_date":"1974-08-08",
+        "facet":"USA",
+        "category":"Right"
+    },
+    {
+        "content_text":"Gerald Ford",
+        "start_date":"1974-08-09",
+        "end_date":"1977-01-19",
+        "facet":"USA",
+        "category":"Right"
+    },
+    {
+        "content_text":"Jimmy Carter",
+        "start_date":"1977-01-20",
+        "end_date":"1981-01-19",
+        "facet":"USA",
+        "category":"Left"
+    },
+    {
+        "content_text":"Ronald Reagan",
+        "start_date":"1981-01-20",
+        "end_date":"1989-01-19",
+        "facet":"USA",
+        "category":"Right"
+    },
+    {
+        "content_text":"George H. W. Bush",
+        "start_date":"1989-01-20",
+        "end_date":"1993-01-19",
+        "facet":"USA",
+        "category":"Right"
+    },
+    {
+        "content_text":"Bill Clinton",
+        "start_date":"1993-01-20",
+        "end_date":"2001-01-19",
+        "facet":"USA",
+        "category":"Left"
+    },
+    {
+        "content_text":"George W. Bush",
+        "start_date":"2001-01-20",
+        "end_date":"2009-01-19",
+        "facet":"USA",
+        "category":"Right"
+    },
+    {
+        "content_text":"Barack Obama",
+        "start_date":"2009-01-20",
+        "end_date":"2015-12-31",
+        "facet":"USA",
+        "category":"Left"
+    },
+    {
+        "content_text":"W.L. Mackenzie King",
+        "facet":"Canada",
+        "category": "Left",
+        "start_date":"1940-01-01",
+        "end_date":"1948-11-14"
+    },
+    {
+        "content_text":"Louis St. Laurent",
+        "facet":"Canada",
+        "category": "Left",
+        "start_date":"1948-11-15",
+        "end_date":"1957-06-20"
+    },
+    {
+        "content_text":"John Diefenbaker",
+        "facet":"Canada",
+        "category": "Right",
+        "start_date":"1957-06-21",
+        "end_date":"1963-04-22"
+    },
+    {
+        "content_text":"Lester B. Pearson",
+        "facet":"Canada",
+        "category": "Left",
+        "start_date":"1963-04-23",
+        "end_date":"1968-04-19"
+    },
+    {
+        "content_text":"Pierre Trudeau",
+        "facet":"Canada",
+        "category": "Left",
+        "start_date":"1968-04-20",
+        "end_date":"1979-06-03"
+    },
+    {
+        "content_text":"Joe Clark",
+        "facet":"Canada",
+        "category": "Right",
+        "start_date":"1979-06-04",
+        "end_date":"1980-03-02"
+    },
+    {
+        "content_text":"Pierre Trudeau",
+        "facet":"Canada",
+        "category": "Left",
+        "start_date":"1980-03-03",
+        "end_date":"1984-06-29"
+    },
+    {
+        "content_text":"John Turner",
+        "facet":"Canada",
+        "category": "Left",
+        "start_date":"1984-06-30",
+        "end_date":"1984-09-16"
+    },
+    {
+        "content_text":"Brian Mulroney",
+        "facet":"Canada",
+        "category": "Right",
+        "start_date":"1984-09-17",
+        "end_date":"1993-06-24"
+    },
+    {
+        "content_text":"Kim Campbell",
+        "facet":"Canada",
+        "category": "Right",
+        "start_date":"1993-06-25",
+        "end_date":"1993-11-03"
+    },
+    {
+        "content_text":"Jean Chrétien",
+        "facet":"Canada",
+        "category": "Left",
+        "start_date":"1993-11-04",
+        "end_date":"2003-12-11"
+    },
+    {
+        "content_text":"Paul Martin",
+        "facet":"Canada",
+        "category": "Left",
+        "start_date":"2003-12-12",
+        "end_date":"2006-02-05"
+    },
+    {
+        "content_text":"Stephen Harper",
+        "facet":"Canada",
+        "category": "Right",
+        "start_date":"2006-02-06",
+        "end_date":"2015-10-19"
+    },
+    {
+        "content_text":"Neville Chamberlain",
+        "facet":"UK",
+        "category":"Right",
+        "start_date":"1940-01-01",
+        "end_date":"1940-05-09"
+    },
+    {
+        "content_text":"Winston Churchill",
+        "facet":"UK",
+        "category":"Right",
+        "start_date":"1940-05-10",
+        "end_date":"1945-07-25"
+    },
+    {
+        "content_text":"Clement Attlee",
+        "facet":"UK",
+        "category":"Left",
+        "start_date":"1945-07-26",
+        "end_date":"1951-10-25"
+    },
+    {
+        "content_text":"Winston Churchill",
+        "facet":"UK",
+        "category":"Right",
+        "start_date":"1951-10-26",
+        "end_date":"1955-04-05"
+    },
+    {
+        "content_text":"Anthony Eden",
+        "facet":"UK",
+        "category":"Right",
+        "start_date":"1955-04-06",
+        "end_date":"1957-01-09"
+    },
+    {
+        "content_text":"Harold Macmillan",
+        "facet":"UK",
+        "category":"Right",
+        "start_date":"1957-01-10",
+        "end_date":"1963-10-17"
+    },
+    {
+        "content_text":"Alec Douglas-Home",
+        "facet":"UK",
+        "category":"Right",
+        "start_date":"1963-10-18",
+        "end_date":"1964-10-15"
+    },
+    {
+        "content_text":"Harold Wilson",
+        "facet":"UK",
+        "category":"Left",
+        "start_date":"1964-10-16",
+        "end_date":"1970-06-18"
+    },
+    {
+        "content_text":"Edward Heath",
+        "facet":"UK",
+        "category":"Right",
+        "start_date":"1970-06-19",
+        "end_date":"1974-03-03"
+    },
+    {
+        "content_text":"Harold Wilson",
+        "facet":"UK",
+        "category":"Left",
+        "start_date":"1974-03-04",
+        "end_date":"1976-04-04"
+    },
+    {
+        "content_text":"James Callaghan",
+        "facet":"UK",
+        "category":"Left",
+        "start_date":"1976-04-05",
+        "end_date":"1979-05-03"
+    },
+    {
+        "content_text":"Margaret Thatcher",
+        "facet":"UK",
+        "category":"Right",
+        "start_date":"1979-05-04",
+        "end_date":"1990-11-27"
+    },
+    {
+        "content_text":"John Major",
+        "facet":"UK",
+        "category":"Right",
+        "start_date":"1990-11-28",
+        "end_date":"1997-05-01"
+    },
+    {
+        "content_text":"Tony Blair",
+        "facet":"UK",
+        "category":"Left",
+        "start_date":"1997-05-02",
+        "end_date":"2007-06-26"
+    },
+    {
+        "content_text":"Gordon Brown",
+        "facet":"UK",
+        "category":"Left",
+        "start_date":"2007-06-27",
+        "end_date":"2010-05-10"
+    },
+    {
+        "content_text":"David Cameron",
+        "facet":"UK",
+        "category":"Right",
+        "start_date":"2010-05-11",
+        "end_date":"2015-12-31"
+    },
+    {
+        "content_text":"Vincent Auriol",
+        "facet":"France",
+        "category":"Left",
+        "start_date":"1947-01-16",
+        "end_date":"1954-01-15"
+    },
+    {
+        "content_text":"René Coty",
+        "facet":"France",
+        "category":"Right",
+        "start_date":"1954-01-16",
+        "end_date":"1959-01-07"
+    },
+    {
+        "content_text":"Charles de Gaulle",
+        "facet":"France",
+        "category":"Right",
+        "start_date":"1959-01-08",
+        "end_date":"1969-04-27"
+    },
+    {
+        "content_text":"Alain Poher",
+        "facet":"France",
+        "category":"Centrist",
+        "start_date":"1969-04-28",
+        "end_date":"1969-06-19"
+    },
+    {
+        "content_text":"Georges Pompidou",
+        "facet":"France",
+        "category":"Right",
+        "start_date":"1969-06-20",
+        "end_date":"1974-04-01"
+    },
+    {
+        "content_text":"Alain Poher",
+        "facet":"France",
+        "category":"Centrist",
+        "start_date":"1974-04-02",
+        "end_date":"1974-05-26"
+    },
+    {
+        "content_text":"Valéry d'Estaing",
+        "facet":"France",
+        "category":"Right",
+        "start_date":"1974-05-27",
+        "end_date":"1981-05-20"
+    },
+    {
+        "content_text":"François Mitterrand",
+        "facet":"France",
+        "category":"Left",
+        "start_date":"1981-05-21",
+        "end_date":"1995-05-16"
+    },
+    {
+        "content_text":"Jacques Chirac",
+        "facet":"France",
+        "category":"Right",
+        "start_date":"1995-05-17",
+        "end_date":"2007-05-15"
+    },
+    {
+        "content_text":"Nicolas Sarkozy",
+        "facet":"France",
+        "category":"Right",
+        "start_date":"2007-05-16",
+        "end_date":"2012-05-14"
+    },
+    {
+        "content_text":"François Hollande",
+        "facet":"France",
+        "category":"Left",
+        "start_date":"2012-05-15",
+        "end_date":"2015-12-31"
+    },
+    {
+        "content_text":"Mitsumasa Yonai",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1940-01-16",
+        "end_date":"1940-07-21"
+    },
+    {
+        "content_text":"Nobuyuki Abe",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1940-01-01",
+        "end_date":"1940-01-15"
+    },
+    {
+        "content_text":"Fumimaro Konoe",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1940-07-22",
+        "end_date":"1941-10-17"
+    },
+    {
+        "content_text":"Hideki Tojo",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1941-10-18",
+        "end_date":"1944-07-21"
+    },
+    {
+        "content_text":"Kuniaki Koiso",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1944-07-22",
+        "end_date":"1945-04-06"
+    },
+    {
+        "content_text":"Kantaro Suzuki",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1945-04-07",
+        "end_date":"1945-08-16"
+    },
+    {
+        "content_text":"Naruhiko Higashikuni",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1945-08-17",
+        "end_date":"1945-10-08"
+    },
+    {
+        "content_text":"Kijuro Shidehara",
+        "facet":"Japan",
+        "category":"Left",
+        "start_date":"1945-10-09",
+        "end_date":"1946-05-21"
+    },
+    {
+        "content_text":"Shigeru Yoshida",
+        "facet":"Japan",
+        "category":"Left",
+        "start_date":"1946-05-22",
+        "end_date":"1947-05-23"
+    },
+    {
+        "content_text":"Tetsu Katayama",
+        "facet":"Japan",
+        "category":"Left",
+        "start_date":"1947-05-24",
+        "end_date":"1948-03-09"
+    },
+    {
+        "content_text":"Hitoshi Ashida",
+        "facet":"Japan",
+        "category":"Left",
+        "start_date":"1948-03-10",
+        "end_date":"1948-10-14"
+    },
+    {
+        "content_text":"Shigeru Yoshida",
+        "facet":"Japan",
+        "category":"Left",
+        "start_date":"1948-10-15",
+        "end_date":"1954-12-09"
+    },
+    {
+        "content_text":"Ichiro Hatoyama",
+        "facet":"Japan",
+        "category":"Left",
+        "start_date":"1954-12-10",
+        "end_date":"1956-12-22"
+    },
+    {
+        "content_text":"Tanzan Ishibashi",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1956-12-23",
+        "end_date":"1957-01-30"
+    },
+    {
+        "content_text":"Nobusuke Kishi",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1957-01-31",
+        "end_date":"1960-07-18"
+    },
+    {
+        "content_text":"Hayato Ikeda",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1960-07-19",
+        "end_date":"1964-11-08"
+    },
+    {
+        "content_text":"Eisaku Sato",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1964-11-09",
+        "end_date":"1972-07-06"
+    },
+    {
+        "content_text":"Kakuei Tanaka",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1972-07-07",
+        "end_date":"1974-12-08"
+    },
+    {
+        "content_text":"Takeo Miki",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1974-12-09",
+        "end_date":"1976-12-23"
+    },
+    {
+        "content_text":"Takeo Fukuda",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1976-12-24",
+        "end_date":"1978-12-06"
+    },
+    {
+        "content_text":"Masayoshi Ohira",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1978-12-07",
+        "end_date":"1980-06-11"
+    },
+    {
+        "content_text":"Masayoshi Ito",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1980-06-12",
+        "end_date":"1980-07-16"
+    },
+    {
+        "content_text":"Zenko Suzuki",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1980-07-17",
+        "end_date":"1982-11-26"
+    },
+    {
+        "content_text":"Yasuhiro Nakasone",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1982-11-27",
+        "end_date":"1987-11-05"
+    },
+    {
+        "content_text":"Noboru Takeshita",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1987-11-06",
+        "end_date":"1989-06-02"
+    },
+    {
+        "content_text":"Sosuke Uno",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1989-06-03",
+        "end_date":"1989-08-09"
+    },
+    {
+        "content_text":"Toshiki Kaifu",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1989-08-10",
+        "end_date":"1991-11-04"
+    },
+    {
+        "content_text":"Kiichi Miyazawa",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1991-11-05",
+        "end_date":"1993-08-08"
+    },
+    {
+        "content_text":"Morihiro Hosokawa",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1993-08-09",
+        "end_date":"1994-04-27"
+    },
+    {
+        "content_text":"Tsutomu Hata",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1994-04-28",
+        "end_date":"1994-06-29"
+    },
+    {
+        "content_text":"Tomiichi Murayama",
+        "facet":"Japan",
+        "category":"Left",
+        "start_date":"1994-06-30",
+        "end_date":"1996-01-10"
+    },
+    {
+        "content_text":"Ryutaro Hashimoto",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1996-01-11",
+        "end_date":"1998-07-29"
+    },
+    {
+        "content_text":"Keizo Obuchi",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"1998-07-30",
+        "end_date":"2000-04-04"
+    },
+    {
+        "content_text":"Yoshiro Mori",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"2000-04-05",
+        "end_date":"2001-04-25"
+    },
+    {
+        "content_text":"Junichiro Koizumi",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"2001-04-26",
+        "end_date":"2006-09-25"
+    },
+    {
+        "content_text":"Shinzo Abe",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"2006-09-26",
+        "end_date":"2007-09-25"
+    },
+    {
+        "content_text":"Yasuo Fukuda",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"2007-09-26",
+        "end_date":"2008-09-23"
+    },
+    {
+        "content_text":"Taro Aso",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"2008-09-24",
+        "end_date":"2009-09-15"
+    },
+    {
+        "content_text":"Yukio Hatoyama",
+        "facet":"Japan",
+        "category":"Left",
+        "start_date":"2009-09-16",
+        "end_date":"2010-06-07"
+    },
+    {
+        "content_text":"Naoto Kan",
+        "facet":"Japan",
+        "category":"Left",
+        "start_date":"2010-06-08",
+        "end_date":"2011-09-01"
+    },
+    {
+        "content_text":"Yoshihiko Noda",
+        "facet":"Japan",
+        "category":"Left",
+        "start_date":"2011-09-02",
+        "end_date":"2012-12-25"
+    },
+    {
+        "content_text":"Shinzo Abe",
+        "facet":"Japan",
+        "category":"Right",
+        "start_date":"2012-12-26",
+        "end_date":"2015-12-31"
+    },
+    {
+        "content_text":"Enrico De Nicola",
+        "facet":"Italy",
+        "category":"Right",
+        "start_date":"1948-01-01",
+        "end_date":"1948-05-11"
+    },
+    {
+        "content_text":"Luigi Einaudi",
+        "facet":"Italy",
+        "category":"Right",
+        "start_date":"1948-05-12",
+        "end_date":"1955-05-10"
+    },
+    {
+        "content_text":"Giovanni Gronchi",
+        "facet":"Italy",
+        "category":"Centrist",
+        "start_date":"1955-05-11",
+        "end_date":"1962-05-10"
+    },
+    {
+        "content_text":"Antonio Segni",
+        "facet":"Italy",
+        "category":"Centrist",
+        "start_date":"1962-05-11",
+        "end_date":"1964-12-06"
+    },
+    {
+        "content_text":"Giuseppe Saragat",
+        "facet":"Italy",
+        "category":"Left",
+        "start_date":"1964-12-29",
+        "end_date":"1971-12-28"
+    },
+    {
+        "content_text":"Giovanni Leone",
+        "facet":"Italy",
+        "category":"Centrist",
+        "start_date":"1971-12-29",
+        "end_date":"1978-06-15"
+    },
+    {
+        "content_text":"Sandro Pertini",
+        "facet":"Italy",
+        "category":"Left",
+        "start_date":"1978-07-09",
+        "end_date":"1985-06-29"
+    },
+    {
+        "content_text":"Francesco Cossiga",
+        "facet":"Italy",
+        "category":"Centrist",
+        "start_date":"1985-07-03",
+        "end_date":"1992-04-28"
+    },
+    {
+        "content_text":"Oscar Luigi Scalfaro",
+        "facet":"Italy",
+        "category":"Centrist",
+        "start_date":"1992-05-28",
+        "end_date":"1999-05-15"
+    },
+    {
+        "content_text":"Carlo Azeglio Ciampi",
+        "facet":"Italy",
+        "category":"None",
+        "start_date":"1999-05-18",
+        "end_date":"2006-05-14"
+    },
+    {
+        "content_text":"Giorgio Napolitano",
+        "facet":"Italy",
+        "category":"Left",
+        "start_date":"2006-05-15",
+        "end_date":"2013-04-19"
+    },
+    {
+        "content_text":"Giorgio Napolitano",
+        "facet":"Italy",
+        "category":"None",
+        "start_date":"2013-04-20",
+        "end_date":"2015-01-14"
+    },
+    {
+        "content_text":"Sergio Mattarella",
+        "facet":"Italy",
+        "category":"Left",
+        "start_date":"2015-02-03",
+        "end_date":"2015-12-31"
+    },
+    {
+        "content_text":"Konrad Adenauer",
+        "facet":"Germany",
+        "category":"Right",
+        "start_date":"1949-09-20",
+        "end_date":"1963-10-11"
+    },
+    {
+        "content_text":"Ludwig Erhard",
+        "facet":"Germany",
+        "category":"Right",
+        "start_date":"1963-10-17",
+        "end_date":"1966-11-30"
+    },
+    {
+        "content_text":"Kurt Georg Kiesinger",
+        "facet":"Germany",
+        "category":"Right",
+        "start_date":"1966-12-01",
+        "end_date":"1969-10-21"
+    },
+    {
+        "content_text":"Willy Brandt",
+        "facet":"Germany",
+        "category":"Left",
+        "start_date":"1969-10-22",
+        "end_date":"1974-05-06"
+    },
+    {
+        "content_text":"Walter Scheel",
+        "facet":"Germany",
+        "category":"Right",
+        "start_date":"1974-05-07",
+        "end_date":"1974-05-15"
+    },
+    {
+        "content_text":"Helmut Schmidt",
+        "facet":"Germany",
+        "category":"Left",
+        "start_date":"1974-05-16",
+        "end_date":"1982-09-30"
+    },
+    {
+        "content_text":"Helmut Kohl",
+        "facet":"Germany",
+        "category":"Right",
+        "start_date":"1982-10-01",
+        "end_date":"1998-10-26"
+    },
+    {
+        "content_text":"Gerhard Schröder",
+        "facet":"Germany",
+        "category":"Left",
+        "start_date":"1998-10-27",
+        "end_date":"2005-11-21"
+    },
+    {
+        "content_text":"Angela Merkel",
+        "facet":"Germany",
+        "category":"Right",
+        "start_date":"2005-11-22",
+        "end_date":"2015-12-31"
+    }
+]

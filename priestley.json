@@ -1,0 +1,344 @@
+[
+  {
+    "start_date":"-0640",
+    "end_date":"-0550",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Thales"
+  },
+  {
+    "start_date":"-0560",
+    "end_date":"-0500",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Pythagoras"
+  },
+  {
+    "start_date":"-0520",
+    "end_date":"-0440",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Pindar"
+  },
+  {
+    "start_date":"-0560",
+    "end_date":"-0480",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Anacreon"
+  },
+  {
+    "start_date":"-0485",
+    "end_date":"-0410",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Herodotus"
+  },
+  {
+    "start_date":"-0470",
+    "end_date":"-0390",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Thuoydidas"
+  },
+  {
+    "start_date":"-0495",
+    "end_date":"-0410",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Sophocles"
+  },
+  {
+    "start_date":"-0460",
+    "end_date":"-0355",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Hippocrates"
+  },
+  {
+    "start_date":"-0470",
+    "end_date":"-0400",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Socrates"
+  },
+  {
+    "start_date":"-0450",
+    "end_date":"-0360",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Xenophon"
+  },
+  {
+    "start_date":"-0440",
+    "end_date":"-0380",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Aristophanes"
+  },
+  {
+    "start_date":"-0425",
+    "end_date":"-0350",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Plato"
+  },
+  {
+    "start_date":"-0380",
+    "end_date":"-0320",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Demosthenes"
+  },
+  {
+    "start_date":"-0380",
+    "end_date":"-0320",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Aristotle"
+  },
+  {
+    "start_date":"-0365",
+    "end_date":"-0265",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Zeno Stoicus"
+  },
+  {
+    "start_date":"-0340",
+    "end_date":"-0270",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Epicurus"
+  },
+  {
+    "start_date":"-0330",
+    "end_date":"-0275",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Euclid"
+  },
+  {
+    "start_date":"-0295",
+    "end_date":"-0245",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Theocritus"
+  },
+  {
+    "start_date":"-0210",
+    "end_date":"-0125",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Polybius"
+  },
+  {
+    "start_date":"-0230",
+    "end_date":"-0155",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Aristardius"
+  },
+  {
+    "start_date":"-0230",
+    "end_date":"-0185",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Plautus"
+  },
+  {
+    "start_date":"-0200",
+    "end_date":"-0155",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Terence"
+  },
+  {
+    "start_date":"-0240",
+    "end_date":"-0170",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Ennius"
+  },
+  {
+    "start_date":"-0085",
+    "end_date":"-0030",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Sallust"
+  },
+  {
+    "start_date":"-0060",
+    "end_date":"0015",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Liw"
+  },
+  {
+    "start_date":"-0040",
+    "end_date":"0015",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Ovid"
+  },
+  {
+    "start_date":"-0070",
+    "end_date":"-0020",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Virgil"
+  },
+  {
+    "start_date":"-0060",
+    "end_date":"-0010",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Horace"
+  },
+  {
+    "start_date":"-0100",
+    "end_date":"-0050",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Lucretius"
+  },
+  {
+    "start_date":"-0080",
+    "end_date":"-0040",
+    "facet":"MEN OF LEARNING",
+    "content_text":"Catullus"
+  },
+  {
+    "start_date":"-0595",
+    "end_date":"-0530",
+    "facet":"STATESMEN",
+    "content_text":"Cyrus"
+  },
+  {
+    "start_date":"-0625",
+    "end_date":"-0550",
+    "facet":"STATESMEN",
+    "content_text":"Solon"
+  },
+  {
+    "start_date":"-0545",
+    "end_date":"-0490",
+    "facet":"STATESMEN",
+    "content_text":"Miltiades"
+  },
+  {
+    "start_date":"-0500",
+    "end_date":"-0430",
+    "facet":"STATESMEN",
+    "content_text":"Poricles"
+  },
+  {
+    "start_date":"-0515",
+    "end_date":"-0450",
+    "facet":"STATESMEN",
+    "content_text":"Themistocles"
+  },
+  {
+    "start_date":"-0500",
+    "end_date":"-0450",
+    "facet":"STATESMEN",
+    "content_text":"Cimon"
+  },
+  {
+    "start_date":"-0450",
+    "end_date":"-0405",
+    "facet":"STATESMEN",
+    "content_text":"Alcibiades"
+  },
+  {
+    "start_date":"-0445",
+    "end_date":"-0360",
+    "facet":"STATESMEN",
+    "content_text":"Agesilaus"
+  },
+  {
+    "start_date":"-0385",
+    "end_date":"-0340",
+    "facet":"STATESMEN",
+    "content_text":"Philip"
+  },
+  {
+    "start_date":"-0350",
+    "end_date":"-0320",
+    "facet":"STATESMEN",
+    "content_text":"Alexander"
+  },
+  {
+    "start_date":"-0400",
+    "end_date":"-0345",
+    "facet":"STATESMEN",
+    "content_text":"Dionysius"
+  },
+  {
+    "start_date":"-0420",
+    "end_date":"-0365",
+    "facet":"STATESMEN",
+    "content_text":"Epaminandas"
+  },
+  {
+    "start_date":"-0445",
+    "end_date":"-0365",
+    "facet":"STATESMEN",
+    "content_text":"Camillus"
+  },
+  {
+    "start_date":"-0325",
+    "end_date":"-0275",
+    "facet":"STATESMEN",
+    "content_text":"Pyrrhus"
+  },
+  {
+    "start_date":"-0275",
+    "end_date":"-0220",
+    "facet":"STATESMEN",
+    "content_text":"Aratus"
+  },
+  {
+    "start_date":"-0255",
+    "end_date":"-0185",
+    "facet":"STATESMEN",
+    "content_text":"Philopremon"
+  },
+  {
+    "start_date":"-0260",
+    "end_date":"-0240",
+    "facet":"STATESMEN",
+    "content_text":"Agis"
+  },
+  {
+    "start_date":"-0230",
+    "end_date":"-0145",
+    "facet":"STATESMEN",
+    "content_text":"Cato Censor"
+  },
+  {
+    "start_date":"-0230",
+    "end_date":"-0180",
+    "facet":"STATESMEN",
+    "content_text":"Scipio Af."
+  },
+  {
+    "start_date":"-0245",
+    "end_date":"-0180",
+    "facet":"STATESMEN",
+    "content_text":"Hannibal"
+  },
+  {
+    "start_date":"-0180",
+    "end_date":"-0135",
+    "facet":"STATESMEN",
+    "content_text":"T Gracchus"
+  },
+  {
+    "start_date":"-0130",
+    "end_date":"-0065",
+    "facet":"STATESMEN",
+    "content_text":"Mithriates"
+  },
+  {
+    "start_date":"-0110",
+    "end_date":"-0045",
+    "facet":"STATESMEN",
+    "content_text":"Cicero"
+  },
+  {
+    "start_date":"-0110",
+    "end_date":"-0050",
+    "facet":"STATESMEN",
+    "content_text":"Pompey"
+  },
+  {
+    "start_date":"-0100",
+    "end_date":"-0045",
+    "facet":"STATESMEN",
+    "content_text":"J. Caesar"
+  },
+  {
+    "start_date":"-0090",
+    "end_date":"-0045",
+    "facet":"STATESMEN",
+    "content_text":"Brutus"
+  },
+  {
+    "start_date":"-0065",
+    "end_date":"0010",
+    "facet":"STATESMEN",
+    "content_text":"Augustus"
+  }
+]

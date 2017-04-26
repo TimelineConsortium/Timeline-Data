@@ -1,0 +1,266 @@
+[
+    {
+        "content_text":"George Washington",
+        "start_date":"1789-04-30",
+        "end_date":"1797-03-03",
+        "category":"None"
+    },
+    {
+        "content_text":"John Adams",
+        "start_date":"1797-03-04",
+        "end_date":"1801-03-03",
+        "category":"Federalist"
+    },
+    {
+        "content_text":"Thomas Jefferson",
+        "start_date":"1801-03-04",
+        "end_date":"1809-03-03",
+        "category":"Democratic-Republican"
+    },
+    {
+        "content_text":"James Madison",
+        "start_date":"1809-03-04",
+        "end_date":"1817-03-03",
+        "category":"Democratic-Republican"
+    },
+    {
+        "content_text":"James Monroe",
+        "start_date":"1817-03-04",
+        "end_date":"1825-03-03",
+        "category":"Democratic-Republican"
+    },
+    {
+        "content_text":"John Quincy Adams",
+        "start_date":"1825-03-04",
+        "end_date":"1829-03-03",
+        "category":"Democratic-Republican"
+    },
+    {
+        "content_text":"Andrew Jackson",
+        "start_date":"1829-03-04",
+        "end_date":"1837-03-03",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"Martin Van Buren",
+        "start_date":"1837-03-04",
+        "end_date":"1841-03-03",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"William Henry Harrison",
+        "start_date":"1841-03-04",
+        "end_date":"1841-04-03",
+        "category":"Whig"
+    },
+    {
+        "content_text":"John Tyler",
+        "start_date":"1841-04-04",
+        "end_date":"1845-03-03",
+        "category":"Whig"
+    },
+    {
+        "content_text":"James K. Polk",
+        "start_date":"1845-03-04",
+        "end_date":"1849-03-03",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"Zachary Taylor",
+        "start_date":"1849-03-04",
+        "end_date":"1850-07-08",
+        "category":"Whig"
+    },
+    {
+        "content_text":"Millard Fillmore",
+        "start_date":"1850-07-09",
+        "end_date":"1853-03-03",
+        "category":"Whig"
+    },
+    {
+        "content_text":"Franklin Pierce",
+        "start_date":"1853-03-04",
+        "end_date":"1857-03-03",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"James Buchanan",
+        "start_date":"1857-03-04",
+        "end_date":"1861-03-03",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"Abraham Lincoln",
+        "start_date":"1861-03-04",
+        "end_date":"1865-04-05",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Andrew Johnson",
+        "start_date":"1865-04-15",
+        "end_date":"1869-03-03",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"Ulysses S. Grant",
+        "start_date":"1869-03-04",
+        "end_date":"1877-03-03",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Rutherford B. Hayes",
+        "start_date":"1877-03-04",
+        "end_date":"1881-03-03",
+        "category":"Republican"
+    },
+    {
+        "content_text":"James A. Garfield",
+        "start_date":"1881-03-04",
+        "end_date":"1881-09-18",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Chester A. Arthur",
+        "start_date":"1881-09-19",
+        "end_date":"1885-03-03",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Grover Cleveland",
+        "start_date":"1885-03-04",
+        "end_date":"1889-03-03",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"Benjamin Harrison",
+        "start_date":"1889-03-04",
+        "end_date":"1893-03-03",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Grover Cleveland",
+        "start_date":"1893-03-04",
+        "end_date":"1897-03-03",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"William McKinley",
+        "start_date":"1897-03-04",
+        "end_date":"1901-09-13",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Theodore Roosevelt",
+        "start_date":"1901-09-14",
+        "end_date":"1909-03-03",
+        "category":"Republican"
+    },
+    {
+        "content_text":"William Howard Taft",
+        "start_date":"1909-03-04",
+        "end_date":"1913-03-03",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Woodrow Wilson",
+        "start_date":"1913-03-04",
+        "end_date":"1921-03-03",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"Warren G. Harding",
+        "start_date":"1921-03-04",
+        "end_date":"1923-08-01",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Calvin Coolidge",
+        "start_date":"1923-08-02",
+        "end_date":"1929-03-03",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Herbert Hoover",
+        "start_date":"1929-03-04",
+        "end_date":"1933-03-03",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Franklin D. Roosevelt",
+        "start_date":"1933-03-04",
+        "end_date":"1945-04-11",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"Harry S. Truman",
+        "start_date":"1945-04-12",
+        "end_date":"1953-01-19",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"Dwight D. Eisenhower",
+        "start_date":"1953-01-20",
+        "end_date":"1961-01-19",
+        "category":"Republican"
+    },
+    {
+        "content_text":"John F. Kennedy",
+        "start_date":"1961-01-20",
+        "end_date":"1963-11-22",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"Lyndon B. Johnson",
+        "start_date":"1963-11-23",
+        "end_date":"1969-01-19",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"Richard Nixon",
+        "start_date":"1969-01-20",
+        "end_date":"1974-08-08",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Gerald Ford",
+        "start_date":"1974-08-09",
+        "end_date":"1977-01-19",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Jimmy Carter",
+        "start_date":"1977-01-20",
+        "end_date":"1981-01-19",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"Ronald Reagan",
+        "start_date":"1981-01-20",
+        "end_date":"1989-01-19",
+        "category":"Republican"
+    },
+    {
+        "content_text":"George H. W. Bush",
+        "start_date":"1989-01-20",
+        "end_date":"1993-01-19",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Bill Clinton",
+        "start_date":"1993-01-20",
+        "end_date":"2001-01-19",
+        "category":"Democratic"
+    },
+    {
+        "content_text":"George W. Bush",
+        "start_date":"2001-01-20",
+        "end_date":"2009-01-19",
+        "category":"Republican"
+    },
+    {
+        "content_text":"Barack Obama",
+        "start_date":"2009-01-20",
+        "end_date":"2017-01-19",
+        "category":"Democratic"
+    }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "content_text":"Achaemenid Empire Persia",
+    "category":"Central Asia",
+    "start_date":"-0550",
+    "end_date":"-0330"
+  },
+  {
+    "content_text":"Macedonian Empire (Alexander the Great)",
+    "category":"Mediterranean, Central Asia",
+    "start_date":"-0334",
+    "end_date":"-0323"
+  },
+  {
+    "content_text":"Maurya Empire",
+    "category":"India",
+    "start_date":"-0321",
+    "end_date":"-0185"
+  },
+  {
+    "content_text":"Xiongnu Empire",
+    "category":"China",
+    "start_date":"-0250",
+    "end_date":"0465"
+  },
+  {
+    "content_text":"Han Dynasty",
+    "category":"China",
+    "start_date":"-0206",
+    "end_date":"0220"
+  },
+  {
+    "content_text":"Roman Empire",
+    "category":"Europe, Mediterranean, Middle East",
+    "start_date":"-0027",
+    "end_date":"0476"
+  },
+  {
+    "content_text":"Xin Dynasty",
+    "category":"China",
+    "start_date":"0009",
+    "end_date":"0023"
+  },
+  {
+    "content_text":"Göktürk Khaganate",
+    "category":"Central Asia",
+    "start_date":"0552",
+    "end_date":"0747"
+  },
+  {
+    "content_text":"Tang Dynasty",
+    "category":"China",
+    "start_date":"0618",
+    "end_date":"0907"
+  },
+  {
+    "content_text":"Rashidun Caliphate",
+    "category":"Middle East, Mediterranean",
+    "start_date":"0632",
+    "end_date":"0661"
+  },
+  {
+    "content_text":"Umayyad Caliphate",
+    "category":"Middle East, Mediterranean",
+    "start_date":"0661",
+    "end_date":"0750"
+  },
+  {
+    "content_text":"Tufan Tibet Empire",
+    "category":"China",
+    "start_date":"0700",
+    "end_date":"1100"
+  },
+  {
+    "content_text":"Uyghur Khaganate",
+    "category":"Central Asia",
+    "start_date":"0742",
+    "end_date":"0848"
+  },
+  {
+    "content_text":"Abbasid Caliphate",
+    "category":"Middle East, Mediterranean",
+    "start_date":"0750",
+    "end_date":"1258"
+  },
+  {
+    "content_text":"Pala Empire",
+    "category":"India",
+    "start_date":"0750",
+    "end_date":"1174"
+  },
+  {
+    "content_text":"Fatimid Caliphate",
+    "category":"Middle East, Mediterranean",
+    "start_date":"0909",
+    "end_date":"1171"
+  },
+  {
+    "content_text":"Mongol Empire",
+    "category":"Central Asia",
+    "start_date":"1206",
+    "end_date":"1368"
+  },
+  {
+    "content_text":"Golden Horde Khanate",
+    "category":"Central Asia",
+    "start_date":"1240",
+    "end_date":"1502"
+  },
+  {
+    "content_text":"Yuan Dynasty",
+    "category":"China",
+    "start_date":"1271",
+    "end_date":"1368"
+  },
+  {
+    "content_text":"Ottoman Empire",
+    "category":"Europe, Mediterranean, Middle East",
+    "start_date":"1299",
+    "end_date":"1922"
+  },
+  {
+    "content_text":"Ming Dynasty",
+    "category":"China",
+    "start_date":"1368",
+    "end_date":"1644"
+  },
+  {
+    "content_text":"Northern Yuan Dynasty Mongolia",
+    "category":"China",
+    "start_date":"1368",
+    "end_date":"1635"
+  },
+  {
+    "content_text":"Timurid Empire",
+    "category":"Central Asia",
+    "start_date":"1370",
+    "end_date":"1526"
+  },
+  {
+    "content_text":"Spanish Empire",
+    "category":"Worldwide",
+    "start_date":"1402",
+    "end_date":"1975"
+  },
+  {
+    "content_text":"Portuguese Empire",
+    "category":"Worldwide",
+    "start_date":"1415",
+    "end_date":"1975"
+  },
+  {
+    "content_text":"Mughal Empire",
+    "category":"India",
+    "start_date":"1526",
+    "end_date":"1858"
+  },
+  {
+    "content_text":"British Empire",
+    "category":"Worldwide",
+    "start_date":"1603",
+    "end_date":"1997"
+  },
+  {
+    "content_text":"Qing Dynasty",
+    "category":"China",
+    "start_date":"1644",
+    "end_date":"1912"
+  },
+  {
+    "content_text":"Russian Empire",
+    "category":"Europe, Asia",
+    "start_date":"1721",
+    "end_date":"1917"
+  },
+  {
+    "content_text":"Second French Colonial Empire",
+    "category":"Worldwide",
+    "start_date":"1803",
+    "end_date":"1977"
+  },
+  {
+    "content_text":"First Mexican Empire",
+    "category":"Americas",
+    "start_date":"1821",
+    "end_date":"1823"
+  },
+  {
+    "content_text":"Empire of Brazil",
+    "category":"Americas",
+    "start_date":"1822",
+    "end_date":"1889"
+  },
+  {
+    "content_text":"Japanese Empire",
+    "category":"East Asia",
+    "start_date":"1868",
+    "end_date":"1945"
+  },
+  {
+    "content_text":"Nazi Germany",
+    "category":"Europe",
+    "start_date":"1933",
+    "end_date":"1945"
+  }
+]

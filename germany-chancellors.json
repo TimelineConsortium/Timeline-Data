@@ -1,0 +1,191 @@
+[
+    {
+        "content_text":"Friedrich Ebert",
+        "facet":"Germany",
+        "category":"Social Democratic Party",
+        "start_date":"1918-11-09",
+        "end_date":"1919-02-13"
+    },
+    {
+        "content_text":"Phillip Scheideman",
+        "facet":"Germany",
+        "category":"Social Democratic Party",
+        "start_date":"1919-02-13",
+        "end_date":"1919-06-20"
+    },
+    {
+        "content_text":"Gustav Bauer",
+        "facet":"Germany",
+        "category":"Social Democratic Party",
+        "start_date":"1919-06-21",
+        "end_date":"1920-03-26"
+    },
+    {
+        "content_text":"Herman Mueller",
+        "facet":"Germany",
+        "category":"Social Democratic Party",
+        "start_date":"1920-03-27",
+        "end_date":"1920-06-08"
+    },
+    {
+        "content_text":"Constantin Fehrenbach",
+        "facet":"Germany",
+        "category":"Centre",
+        "start_date":"1920-06-25",
+        "end_date":"1921-05-04"
+    },
+    {
+        "content_text":"Joseph Wirth",
+        "facet":"Germany",
+        "category":"Centre",
+        "start_date":"1921-05-10",
+        "end_date":"1922-11-14"
+    },
+    {
+        "content_text":"Wilhelm Cuno",
+        "facet":"Germany",
+        "category":"None",
+        "start_date":"1922-11-22",
+        "end_date":"1923-08-12"
+    },
+    {
+        "content_text":"Gustav Streseman",
+        "facet":"Germany",
+        "category":"German People's Party",
+        "start_date":"1923-08-13",
+        "end_date":"1923-11-30"
+    },
+    {
+        "content_text":"Wilhelm Marx",
+        "facet":"Germany",
+        "category":"Centre",
+        "start_date":"1923-11-30",
+        "end_date":"1925-01-25"
+    },
+    {
+        "content_text":"Hans Luther",
+        "facet":"Germany",
+        "category":"None",
+        "start_date":"1925-01-12",
+        "end_date":"1926-05-12"
+    },
+    {
+        "content_text":"Wilhelm Marx",
+        "facet":"Germany",
+        "category":"Centre",
+        "start_date":"1926-05-17",
+        "end_date":"1928-06-12"
+    },
+    {
+        "content_text":"Herman Mueller",
+        "facet":"Germany",
+        "category":"Social Democratic Party",
+        "start_date":"1928-06-28",
+        "end_date":"1930-03-27"
+    },
+    {
+        "content_text":"Heinrich Bruening",
+        "facet":"Germany",
+        "category":"Centre",
+        "start_date":"1930-03-30",
+        "end_date":"1932-05-30"
+    },
+    {
+        "content_text":"Franz von Papen",
+        "facet":"Germany",
+        "category":"Centre",
+        "start_date":"1932-06-01",
+        "end_date":"1932-11-17"
+    },
+    {
+        "content_text":"Kurt von Schleicher",
+        "facet":"Germany",
+        "category":"None",
+        "start_date":"1932-03-03",
+        "end_date":"1933-01-28"
+    },
+    {
+        "content_text":"Adolf Hitler",
+        "facet":"Germany",
+        "category":"National Socialist German Workers Party",
+        "start_date":"1933-01-30",
+        "end_date":"1945-04-30"
+    },
+    {
+        "content_text":"Joseph Goebbels",
+        "facet":"Germany",
+        "category":"National Socialist German Workers Party",
+        "start_date":"1945-04-30",
+        "end_date":"1945-05-01"
+    },
+    {
+        "content_text":"Lutz Graf Schwerin von Krosigk",
+        "facet":"Germany",
+        "category":"None",
+        "start_date":"1945-05-02",
+        "end_date":"1945-05-23"
+    },
+    {
+        "content_text":"Konrad Adenauer",
+        "facet":"Germany",
+        "category":"Christian Democratic Union",
+        "start_date":"1949-09-20",
+        "end_date":"1963-10-11"
+    },
+    {
+        "content_text":"Ludwig Erhard",
+        "facet":"Germany",
+        "category":"Christian Democratic Union",
+        "start_date":"1963-10-17",
+        "end_date":"1966-11-30"
+    },
+    {
+        "content_text":"Kurt Georg Kiesinger",
+        "facet":"Germany",
+        "category":"Christian Democratic Union",
+        "start_date":"1966-12-01",
+        "end_date":"1969-10-21"
+    },
+    {
+        "content_text":"Willy Brandt",
+        "facet":"Germany",
+        "category":"Social Democratic Party",
+        "start_date":"1969-10-22",
+        "end_date":"1974-05-06"
+    },
+    {
+        "content_text":"Walter Scheel",
+        "facet":"Germany",
+        "category":"Free Democratic Party",
+        "start_date":"1974-05-07",
+        "end_date":"1974-05-15"
+    },
+    {
+        "content_text":"Helmut Schmidt",
+        "facet":"Germany",
+        "category":"Social Democratic Party",
+        "start_date":"1974-05-16",
+        "end_date":"1982-09-30"
+    },
+    {
+        "content_text":"Helmut Kohl",
+        "facet":"Germany",
+        "category":"Christian Democratic Union",
+        "start_date":"1982-10-01",
+        "end_date":"1998-10-26"
+    },
+    {
+        "content_text":"Gerhard Schröder",
+        "facet":"Germany",
+        "category":"Social Democratic Party",
+        "start_date":"1998-10-27",
+        "end_date":"2005-11-21"
+    },
+    {
+        "content_text":"Angela Merkel",
+        "facet":"Germany",
+        "category":"Christian Democratic Union",
+        "start_date":"2005-11-22",
+        "end_date":"2015-07-07"
+    }
+]

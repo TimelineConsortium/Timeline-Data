@@ -1,0 +1,184 @@
+[
+    {
+        "content_text":"Louis-Napoléon Bonaparte",
+        "facet":"France",
+        "category":"Bonapartist",
+        "start_date":"1848-12-20",
+        "end_date":"1852-12-02"
+    },
+    {
+        "content_text":"Adolphe Thiers",
+        "facet":"France",
+        "category":"Independent",
+        "start_date":"1871-08-31",
+        "end_date":"1873-05-23"
+    },
+    {
+        "content_text":"Patrice de Mac-Mahon",
+        "facet":"France",
+        "category":"Moderate Monarchist",
+        "start_date":"1873-05-24",
+        "end_date":"1879-01-29"
+    },
+    {
+        "content_text":"Jules Grévy",
+        "facet":"France",
+        "category":"Opportunist Republican",
+        "start_date":"1879-01-30",
+        "end_date":"1887-12-02"
+    },
+    {
+        "content_text":"Sadi Carnot",
+        "facet":"France",
+        "category":"Opportunist Republican",
+        "start_date":"1887-12-03",
+        "end_date":"1894-06-25"
+    },
+    {
+        "content_text":"Jean Casimir-Perier",
+        "facet":"France",
+        "category":"Opportunist Republican",
+        "start_date":"1894-06-27",
+        "end_date":"1895-01-16"
+    },
+    {
+        "content_text":"Félix Faure",
+        "facet":"France",
+        "category":"Opportunist Republican",
+        "start_date":"1895-01-17",
+        "end_date":"1899-02-16"
+    },
+    {
+        "content_text":"Émile Loubet",
+        "facet":"France",
+        "category":"Democratic Republican",
+        "start_date":"1899-02-18",
+        "end_date":"1906-02-17"
+    },
+    {
+        "content_text":"Armand Fallières",
+        "facet":"France",
+        "category":"Democratic Republican",
+        "start_date":"1906-02-18",
+        "end_date":"1913-02-17"
+    },
+    {
+        "content_text":"Raymond Poincaré",
+        "facet":"France",
+        "category":"Democratic Republican",
+        "start_date":"1913-02-18",
+        "end_date":"1920-02-17"
+    },
+    {
+        "content_text":"Paul Deschanel",
+        "facet":"France",
+        "category":"Democratic Republican",
+        "start_date":"1920-02-18",
+        "end_date":"1920-09-21"
+    },
+    {
+        "content_text":"Alexandre Millerand",
+        "facet":"France",
+        "category":"Independent",
+        "start_date":"1920-09-23",
+        "end_date":"1924-06-11"
+    },
+    {
+        "content_text":"Gaston Doumergue",
+        "facet":"France",
+        "category":"Radial-Socialist",
+        "start_date":"1924-06-13",
+        "end_date":"1931-06-12"
+    },
+    {
+        "content_text":"Paul Doumer",
+        "facet":"France",
+        "category":"Radial-Socialist",
+        "start_date":"1931-06-13",
+        "end_date":"1932-05-07"
+    },
+    {
+        "content_text":"Albert Lebrun",
+        "facet":"France",
+        "category":"Democratic",
+        "start_date":"1932-05-10",
+        "end_date":"1940-07-11"
+    },
+    {
+        "content_text":"Vincent Auriol",
+        "facet":"France",
+        "category":"Socialist",
+        "start_date":"1947-01-16",
+        "end_date":"1954-01-15"
+    },
+    {
+        "content_text":"René Coty",
+        "facet":"France",
+        "category":"Centre-Right",
+        "start_date":"1954-01-16",
+        "end_date":"1959-01-07"
+    },
+    {
+        "content_text":"Charles de Gaulle",
+        "facet":"France",
+        "category":"Gaullist",
+        "start_date":"1959-01-08",
+        "end_date":"1969-04-27"
+    },
+    {
+        "content_text":"Alain Poher",
+        "facet":"France",
+        "category":"Centrist",
+        "start_date":"1969-04-28",
+        "end_date":"1969-06-19"
+    },
+    {
+        "content_text":"Georges Pompidou",
+        "facet":"France",
+        "category":"Gaullist",
+        "start_date":"1969-06-20",
+        "end_date":"1974-04-01"
+    },
+    {
+        "content_text":"Alain Poher",
+        "facet":"France",
+        "category":"Centrist",
+        "start_date":"1974-04-02",
+        "end_date":"1974-05-26"
+    },
+    {
+        "content_text":"Valéry d'Estaing",
+        "facet":"France",
+        "category":"Republican",
+        "start_date":"1974-05-27",
+        "end_date":"1981-05-20"
+    },
+    {
+        "content_text":"François Mitterrand",
+        "facet":"France",
+        "category":"Socialist",
+        "start_date":"1981-05-21",
+        "end_date":"1995-05-16"
+    },
+    {
+        "content_text":"Jacques Chirac",
+        "facet":"France",
+        "category":"Gaullist",
+        "start_date":"1995-05-17",
+        "end_date":"2007-05-15"
+    },
+    {
+        "content_text":"Nicolas Sarkozy",
+        "facet":"France",
+        "category":"Gaullist",
+        "start_date":"2007-05-16",
+        "end_date":"2012-05-14"
+    },
+    {
+        "content_text":"François Hollande",
+        "facet":"France",
+        "category":"Socialist",
+        "start_date":"2012-05-15",
+        "end_date":"2015-07-06"
+    }
+]

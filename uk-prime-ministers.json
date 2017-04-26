@@ -1,0 +1,527 @@
+[
+    {
+        "content_text":"Robert Walpole",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1721-04-04",
+        "end_date":"1742-02-11"
+    },
+    {
+        "content_text":"Spencer Compton",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1742-02-16",
+        "end_date":"1743-07-02"
+    },
+    {
+        "content_text":"Henry Pelham",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1743-08-27",
+        "end_date":"1754-03-06"
+    },
+    {
+        "content_text":"Thomas Pelham-Holles",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1754-03-16",
+        "end_date":"1756-11-15"
+    },
+    {
+        "content_text":"William Cavendish",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1756-11-16",
+        "end_date":"1757-06-25"
+    },
+    {
+        "content_text":"Thomas Pelham-Holles",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1757-07-02",
+        "end_date":"1762-05-25"
+    },
+    {
+        "content_text":"John Stuart",
+        "facet":"UK",
+        "category":"Tory",
+        "start_date":"1762-05-26",
+        "end_date":"1763-04-08"
+    },
+    {
+        "content_text":"George Grenville",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1763-04-16",
+        "end_date":"1765-07-12"
+    },
+    {
+        "content_text":"Charles Watson-Wentworth",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1765-07-13",
+        "end_date":"1766-07-29"
+    },
+    {
+        "content_text":"William Pitt the Elder",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1766-07-30",
+        "end_date":"1768-10-13"
+    },
+    {
+        "content_text":"Augustus FitzRoy",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1768-10-14",
+        "end_date":"1770-01-17"
+    },
+    {
+        "content_text":"Frederick North",
+        "facet":"UK",
+        "category":"Tory",
+        "start_date":"1770-01-28",
+        "end_date":"1782-03-22"
+    },
+    {
+        "content_text":"Charles Watson-Wentworth",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1782-03-27",
+        "end_date":"1782-07-01"
+    },
+    {
+        "content_text":"William Petty",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1782-07-04",
+        "end_date":"1783-04-01"
+    },
+    {
+        "content_text":"William Cavendish-Bentinck",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1783-04-02",
+        "end_date":"1783-12-18"
+    },
+    {
+        "content_text":"William Pitt the Younger",
+        "facet":"UK",
+        "category":"Tory",
+        "start_date":"1783-12-19",
+        "end_date":"1801-03-14"
+    },
+    {
+        "content_text":"Henry Addington",
+        "facet":"UK",
+        "category":"Tory",
+        "start_date":"1801-03-17",
+        "end_date":"1804-05-09"
+    },
+    {
+        "content_text":"William Pitt the Younger",
+        "facet":"UK",
+        "category":"Tory",
+        "start_date":"1804-05-10",
+        "end_date":"1806-01-23"
+    },
+    {
+        "content_text":"William Grenville",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1806-02-11",
+        "end_date":"1807-03-30"
+    },
+    {
+        "content_text":"William Cavendish-Bentinck",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1807-03-31",
+        "end_date":"1809-10-03"
+    },
+    {
+        "content_text":"Spencer Perceval",
+        "facet":"UK",
+        "category":"Tory",
+        "start_date":"1809-10-04",
+        "end_date":"1812-05-11"
+    },
+    {
+        "content_text":"Robert Jenkinson",
+        "facet":"UK",
+        "category":"Tory",
+        "start_date":"1812-06-08",
+        "end_date":"1827-04-09"
+    },
+    {
+        "content_text":"George Canning",
+        "facet":"UK",
+        "category":"Tory",
+        "start_date":"1827-04-10",
+        "end_date":"1827-08-08"
+    },
+    {
+        "content_text":"Frederick Robinson",
+        "facet":"UK",
+        "category":"Tory",
+        "start_date":"1827-08-31",
+        "end_date":"1828-01-21"
+    },
+    {
+        "content_text":"Arthur Wellesley",
+        "facet":"UK",
+        "category":"Tory",
+        "start_date":"1828-01-22",
+        "end_date":"1830-11-16"
+    },
+    {
+        "content_text":"Charles Grey",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1830-11-22",
+        "end_date":"1834-07-15"
+    },
+    {
+        "content_text":"William Lamb",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1834-07-16",
+        "end_date":"1834-11-13"
+    },
+    {
+        "content_text":"Arthur Wellesley",
+        "facet":"UK",
+        "category":"Tory",
+        "start_date":"1834-11-14",
+        "end_date":"1834-12-09"
+    },
+    {
+        "content_text":"Robert Peel",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1834-12-10",
+        "end_date":"1835-04-08"
+    },
+    {
+        "content_text":"William Lamb",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1835-04-18",
+        "end_date":"1841-08-29"
+    },
+    {
+        "content_text":"Robert Peel",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1841-08-30",
+        "end_date":"1846-06-29"
+    },
+    {
+        "content_text":"John Russell",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1846-06-30",
+        "end_date":"1852-02-21"
+    },
+    {
+        "content_text":"Edward Smith-Stanley",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1852-02-23",
+        "end_date":"1852-12-17"
+    },
+    {
+        "content_text":"George Hamilton-Gordon",
+        "facet":"UK",
+        "category":"Peelite",
+        "start_date":"1852-12-19",
+        "end_date":"1855-01-30"
+    },
+    {
+        "content_text":"Henry Temple",
+        "facet":"UK",
+        "category":"Whig",
+        "start_date":"1855-02-06",
+        "end_date":"1858-02-19"
+    },
+    {
+        "content_text":"Edward Smith-Stanley",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1858-02-20",
+        "end_date":"1859-06-11"
+    },
+    {
+        "content_text":"Henry Temple",
+        "facet":"UK",
+        "category":"Liberal",
+        "start_date":"1859-06-12",
+        "end_date":"1865-10-18"
+    },
+    {
+        "content_text":"John Russell",
+        "facet":"UK",
+        "category":"Liberal",
+        "start_date":"1865-10-29",
+        "end_date":"1866-06-27"
+    },
+    {
+        "content_text":"Edward Smith-Stanley",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1866-06-28",
+        "end_date":"1868-02-25"
+    },
+    {
+        "content_text":"Benjamin Disraeli",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1868-02-27",
+        "end_date":"1868-12-01"
+    },
+    {
+        "content_text":"William Ewart Gladstone",
+        "facet":"UK",
+        "category":"Liberal",
+        "start_date":"1868-12-03",
+        "end_date":"1874-02-19"
+    },
+    {
+        "content_text":"Benjamin Disraeli",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1874-02-20",
+        "end_date":"1880-04-21"
+    },
+    {
+        "content_text":"William Ewart Gladstone",
+        "facet":"UK",
+        "category":"Liberal",
+        "start_date":"1880-04-23",
+        "end_date":"1885-06-09"
+    },
+    {
+        "content_text":"Robert Cecil",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1885-06-23",
+        "end_date":"1886-01-28"
+    },
+    {
+        "content_text":"William Ewart Gladstone",
+        "facet":"UK",
+        "category":"Liberal",
+        "start_date":"1886-02-01",
+        "end_date":"1886-07-20"
+    },
+    {
+        "content_text":"Robert Cecil",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1886-07-25",
+        "end_date":"1892-08-11"
+    },
+    {
+        "content_text":"William Ewart Gladstone",
+        "facet":"UK",
+        "category":"Liberal",
+        "start_date":"1892-08-15",
+        "end_date":"1894-03-02"
+    },
+    {
+        "content_text":"Archibald Primrose",
+        "facet":"UK",
+        "category":"Liberal",
+        "start_date":"1894-03-05",
+        "end_date":"1895-06-22"
+    },
+    {
+        "content_text":"Robert Cecil",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1895-06-25",
+        "end_date":"1902-07-10"
+    },
+    {
+        "content_text":"Arthur Balfour",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1902-07-11",
+        "end_date":"1905-12-04"
+    },
+    {
+        "content_text":"Henry Campbell-Bannerman",
+        "facet":"UK",
+        "category":"Liberal",
+        "start_date":"1905-12-05",
+        "end_date":"1908-04-03"
+    },
+    {
+        "content_text":"Herbert Asquith",
+        "facet":"UK",
+        "category":"Liberal",
+        "start_date":"1908-04-05",
+        "end_date":"1916-12-05"
+    },
+    {
+        "content_text":"David Lloyd George",
+        "facet":"UK",
+        "category":"Liberal",
+        "start_date":"1916-12-07",
+        "end_date":"1922-10-22"
+    },
+    {
+        "content_text":"Andrew Bonar Law",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1922-10-23",
+        "end_date":"1923-05-22"
+    },
+    {
+        "content_text":"Stanley Baldwin",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1923-05-23",
+        "end_date":"1924-01-16"
+    },
+    {
+        "content_text":"Ramsay MacDonald",
+        "facet":"UK",
+        "category":"Labour",
+        "start_date":"1924-01-22",
+        "end_date":"1924-11-03"
+    },
+    {
+        "content_text":"Stanley Baldwin",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1924-11-04",
+        "end_date":"1929-06-04"
+    },
+    {
+        "content_text":"Ramsay MacDonald",
+        "facet":"UK",
+        "category":"Labour",
+        "start_date":"1929-06-05",
+        "end_date":"1935-06-06"
+    },
+    {
+        "content_text":"Stanley Baldwin",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1935-06-07",
+        "end_date":"1937-05-27"
+    },
+    {
+        "content_text":"Neville Chamberlain",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1937-05-28",
+        "end_date":"1940-05-09"
+    },
+    {
+        "content_text":"Winston Churchill",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1940-05-10",
+        "end_date":"1945-07-25"
+    },
+    {
+        "content_text":"Clement Attlee",
+        "facet":"UK",
+        "category":"Labour",
+        "start_date":"1945-07-26",
+        "end_date":"1951-10-25"
+    },
+    {
+        "content_text":"Winston Churchill",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1951-10-26",
+        "end_date":"1955-04-05"
+    },
+    {
+        "content_text":"Anthony Eden",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1955-04-06",
+        "end_date":"1957-01-09"
+    },
+    {
+        "content_text":"Harold Macmillan",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1957-01-10",
+        "end_date":"1963-10-17"
+    },
+    {
+        "content_text":"Alec Douglas-Home",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1963-10-18",
+        "end_date":"1964-10-15"
+    },
+    {
+        "content_text":"Harold Wilson",
+        "facet":"UK",
+        "category":"Labour",
+        "start_date":"1964-10-16",
+        "end_date":"1970-06-18"
+    },
+    {
+        "content_text":"Edward Heath",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1970-06-19",
+        "end_date":"1974-03-03"
+    },
+    {
+        "content_text":"Harold Wilson",
+        "facet":"UK",
+        "category":"Labour",
+        "start_date":"1974-03-04",
+        "end_date":"1976-04-04"
+    },
+    {
+        "content_text":"James Callaghan",
+        "facet":"UK",
+        "category":"Labour",
+        "start_date":"1976-04-05",
+        "end_date":"1979-05-03"
+    },
+    {
+        "content_text":"Margaret Thatcher",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1979-05-04",
+        "end_date":"1990-11-27"
+    },
+    {
+        "content_text":"John Major",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"1990-11-28",
+        "end_date":"1997-05-01"
+    },
+    {
+        "content_text":"Tony Blair",
+        "facet":"UK",
+        "category":"Labour",
+        "start_date":"1997-05-02",
+        "end_date":"2007-06-26"
+    },
+    {
+        "content_text":"Gordon Brown",
+        "facet":"UK",
+        "category":"Labour",
+        "start_date":"2007-06-27",
+        "end_date":"2010-05-10"
+    },
+    {
+        "content_text":"David Cameron",
+        "facet":"UK",
+        "category":"Conservative",
+        "start_date":"2010-05-11",
+        "end_date":"2015-07-06"
+    }
+]

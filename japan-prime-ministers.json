@@ -1,0 +1,597 @@
+[
+    {
+        "content_text":"Hirobumi Ito",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1885-12-22",
+        "end_date":"1888-04-29"
+    },
+    {
+        "content_text":"Kiyotaka Kuroda",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1888-04-30",
+        "end_date":"1889-10-24"
+    },
+    {
+        "content_text":"Sanetomi Sanjo",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1889-10-25",
+        "end_date":"1889-12-23"
+    },
+    {
+        "content_text":"Aritomo Yamagata",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1889-12-24",
+        "end_date":"1891-05-05"
+    },
+    {
+        "content_text":"Masayoshi Matsukata",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1891-05-06",
+        "end_date":"1892-08-07"
+    },
+    {
+        "content_text":"Hirobumi Ito",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1892-08-08",
+        "end_date":"1896-08-31"
+    },
+    {
+        "content_text":"Masayoshi Matsukata",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1896-09-18",
+        "end_date":"1898-01-11"
+    },
+    {
+        "content_text":"Hirobumi Ito",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1898-01-12",
+        "end_date":"1898-06-29"
+    },
+    {
+        "content_text":"Shigenobu Okuma",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1898-06-30",
+        "end_date":"1898-11-07"
+    },
+    {
+        "content_text":"Aritomo Yamagata",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1898-11-08",
+        "end_date":"1900-10-18"
+    },
+    {
+        "content_text":"Hirobumi Ito",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1900-10-19",
+        "end_date":"1901-05-10"
+    },
+    {
+        "content_text":"Taro Katsura",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1901-06-02",
+        "end_date":"1906-01-06"
+    },
+    {
+        "content_text":"Kinmochi Saionji",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1906-01-07",
+        "end_date":"1908-07-13"
+    },
+    {
+        "content_text":"Taro Katsura",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1908-07-14",
+        "end_date":"1911-08-29"
+    },
+    {
+        "content_text":"Kinmochi Saionji",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1911-08-30",
+        "end_date":"1912-12-19"
+    },
+    {
+        "content_text":"Taro Katsura",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1912-12-20",
+        "end_date":"1913-02-19"
+    },
+    {
+        "content_text":"Gonnohyoe Yamamoto",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1913-02-20",
+        "end_date":"1914-04-15"
+    },
+    {
+        "content_text":"Shigenobu Okuma",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1914-04-16",
+        "end_date":"1916-10-08"
+    },
+    {
+        "content_text":"Masatake Terauchi",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1916-10-09",
+        "end_date":"1918-09-28"
+    },
+    {
+        "content_text":"Takashi Hara",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1918-09-29",
+        "end_date":"1921-11-04"
+    },
+    {
+        "content_text":"Kosai Uchida",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1921-11-05",
+        "end_date":"1921-11-12"
+    },
+    {
+        "content_text":"Korekiyo Takahashi",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1921-11-13",
+        "end_date":"1922-06-11"
+    },
+    {
+        "content_text":"Tomosaburo Kato",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1922-06-12",
+        "end_date":"1923-08-24"
+    },
+    {
+        "content_text":"Kosai Uchida",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1923-08-25",
+        "end_date":"1923-09-01"
+    },
+    {
+        "content_text":"Gonnohyoe Yamamoto",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1923-09-02",
+        "end_date":"1924-01-06"
+    },
+    {
+        "content_text":"Keigo Kiyoura",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1924-01-07",
+        "end_date":"1924-06-10"
+    },
+    {
+        "content_text":"Takaaki Kato",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1924-06-11",
+        "end_date":"1926-01-28"
+    },
+    {
+        "content_text":"Reijiro Wakatsuki",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1926-01-29",
+        "end_date":"1927-04-19"
+    },
+    {
+        "content_text":"Giichi Tanaka",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1927-04-20",
+        "end_date":"1929-07-01"
+    },
+    {
+        "content_text":"Osachi Hamaguchi",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1929-07-02",
+        "end_date":"1930-11-14"
+    },
+    {
+        "content_text":"Kijuro Shidehara",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1930-11-15",
+        "end_date":"1931-03-09"
+    },
+    {
+        "content_text":"Osachi Hamaguchi",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1931-03-10",
+        "end_date":"1931-04-13"
+    },
+    {
+        "content_text":"Reijiro Wakatsuki",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1931-04-14",
+        "end_date":"1931-12-12"
+    },
+    {
+        "content_text":"Tsuyoshi Inukai",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1931-12-13",
+        "end_date":"1932-05-15"
+    },
+    {
+        "content_text":"Korekiyo Takahashi",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1932-05-16",
+        "end_date":"1932-05-25"
+    },
+    {
+        "content_text":"Makoto Saito",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1932-05-26",
+        "end_date":"1934-07-07"
+    },
+    {
+        "content_text":"Keisuke Okada",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1934-07-08",
+        "end_date":"1936-02-25"
+    },
+    {
+        "content_text":"Fumio Goto",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1936-02-26",
+        "end_date":"1936-02-29"
+    },
+    {
+        "content_text":"Keisuke Okada",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1936-03-01",
+        "end_date":"1936-03-08"
+    },
+    {
+        "content_text":"Koki Hirota",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1936-03-09",
+        "end_date":"1937-02-01"
+    },
+    {
+        "content_text":"Senjuro Hayashi",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1937-02-02",
+        "end_date":"1937-06-03"
+    },
+    {
+        "content_text":"Fumimaro Konoe",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1937-06-04",
+        "end_date":"1939-01-04"
+    },
+    {
+        "content_text":"Kiichiro Hiranuma",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1939-01-05",
+        "end_date":"1939-08-29"
+    },
+    {
+        "content_text":"Nobuyuki Abe",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1939-08-30",
+        "end_date":"1940-01-15"
+    },
+    {
+        "content_text":"Mitsumasa Yonai",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1940-01-16",
+        "end_date":"1940-07-21"
+    },
+    {
+        "content_text":"Fumimaro Konoe",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1940-07-22",
+        "end_date":"1941-10-17"
+    },
+    {
+        "content_text":"Hideki Tojo",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1941-10-18",
+        "end_date":"1944-07-21"
+    },
+    {
+        "content_text":"Kuniaki Koiso",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1944-07-22",
+        "end_date":"1945-04-06"
+    },
+    {
+        "content_text":"Kantaro Suzuki",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1945-04-07",
+        "end_date":"1945-08-16"
+    },
+    {
+        "content_text":"Naruhiko Higashikuni",
+        "facet":"Japan",
+        "category":"None",
+        "start_date":"1945-08-17",
+        "end_date":"1945-10-08"
+    },
+    {
+        "content_text":"Kijuro Shidehara",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1945-10-09",
+        "end_date":"1946-05-21"
+    },
+    {
+        "content_text":"Shigeru Yoshida",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1946-05-22",
+        "end_date":"1947-05-23"
+    },
+    {
+        "content_text":"Tetsu Katayama",
+        "facet":"Japan",
+        "category":"Socialist",
+        "start_date":"1947-05-24",
+        "end_date":"1948-03-09"
+    },
+    {
+        "content_text":"Hitoshi Ashida",
+        "facet":"Japan",
+        "category":"Democratic",
+        "start_date":"1948-03-10",
+        "end_date":"1948-10-14"
+    },
+    {
+        "content_text":"Shigeru Yoshida",
+        "facet":"Japan",
+        "category":"Liberal",
+        "start_date":"1948-10-15",
+        "end_date":"1954-12-09"
+    },
+    {
+        "content_text":"Ichiro Hatoyama",
+        "facet":"Japan",
+        "category":"Democratic",
+        "start_date":"1954-12-10",
+        "end_date":"1956-12-22"
+    },
+    {
+        "content_text":"Tanzan Ishibashi",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1956-12-23",
+        "end_date":"1957-01-30"
+    },
+    {
+        "content_text":"Nobusuke Kishi",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1957-01-31",
+        "end_date":"1960-07-18"
+    },
+    {
+        "content_text":"Hayato Ikeda",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1960-07-19",
+        "end_date":"1964-11-08"
+    },
+    {
+        "content_text":"Eisaku Sato",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1964-11-09",
+        "end_date":"1972-07-06"
+    },
+    {
+        "content_text":"Kakuei Tanaka",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1972-07-07",
+        "end_date":"1974-12-08"
+    },
+    {
+        "content_text":"Takeo Miki",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1974-12-09",
+        "end_date":"1976-12-23"
+    },
+    {
+        "content_text":"Takeo Fukuda",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1976-12-24",
+        "end_date":"1978-12-06"
+    },
+    {
+        "content_text":"Masayoshi Ohira",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1978-12-07",
+        "end_date":"1980-06-11"
+    },
+    {
+        "content_text":"Masayoshi Ito",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1980-06-12",
+        "end_date":"1980-07-16"
+    },
+    {
+        "content_text":"Zenko Suzuki",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1980-07-17",
+        "end_date":"1982-11-26"
+    },
+    {
+        "content_text":"Yasuhiro Nakasone",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1982-11-27",
+        "end_date":"1987-11-05"
+    },
+    {
+        "content_text":"Noboru Takeshita",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1987-11-06",
+        "end_date":"1989-06-02"
+    },
+    {
+        "content_text":"Sosuke Uno",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1989-06-03",
+        "end_date":"1989-08-09"
+    },
+    {
+        "content_text":"Toshiki Kaifu",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1989-08-10",
+        "end_date":"1991-11-04"
+    },
+    {
+        "content_text":"Kiichi Miyazawa",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1991-11-05",
+        "end_date":"1993-08-08"
+    },
+    {
+        "content_text":"Morihiro Hosokawa",
+        "facet":"Japan",
+        "category":"Japan New",
+        "start_date":"1993-08-09",
+        "end_date":"1994-04-27"
+    },
+    {
+        "content_text":"Tsutomu Hata",
+        "facet":"Japan",
+        "category":"Japan Renewal",
+        "start_date":"1994-04-28",
+        "end_date":"1994-06-29"
+    },
+    {
+        "content_text":"Tomiichi Murayama",
+        "facet":"Japan",
+        "category":"Social Democratic",
+        "start_date":"1994-06-30",
+        "end_date":"1996-01-10"
+    },
+    {
+        "content_text":"Ryutaro Hashimoto",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1996-01-11",
+        "end_date":"1998-07-29"
+    },
+    {
+        "content_text":"Keizo Obuchi",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"1998-07-30",
+        "end_date":"2000-04-04"
+    },
+    {
+        "content_text":"Yoshiro Mori",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"2000-04-05",
+        "end_date":"2001-04-25"
+    },
+    {
+        "content_text":"Junichiro Koizumi",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"2001-04-26",
+        "end_date":"2006-09-25"
+    },
+    {
+        "content_text":"Shinzo Abe",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"2006-09-26",
+        "end_date":"2007-09-25"
+    },
+    {
+        "content_text":"Yasuo Fukuda",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"2007-09-26",
+        "end_date":"2008-09-23"
+    },
+    {
+        "content_text":"Taro Aso",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"2008-09-24",
+        "end_date":"2009-09-15"
+    },
+    {
+        "content_text":"Yukio Hatoyama",
+        "facet":"Japan",
+        "category":"Democratic",
+        "start_date":"2009-09-16",
+        "end_date":"2010-06-07"
+    },
+    {
+        "content_text":"Naoto Kan",
+        "facet":"Japan",
+        "category":"Democratic",
+        "start_date":"2010-06-08",
+        "end_date":"2011-09-01"
+    },
+    {
+        "content_text":"Yoshihiko Noda",
+        "facet":"Japan",
+        "category":"Democratic",
+        "start_date":"2011-09-02",
+        "end_date":"2012-12-25"
+    },
+    {
+        "content_text":"Shinzo Abe",
+        "facet":"Japan",
+        "category":"Liberal Democratic",
+        "start_date":"2012-12-26",
+        "end_date":"2015-07-06"
+    }
+]
